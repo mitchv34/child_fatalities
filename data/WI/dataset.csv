@@ -1,0 +1,1234 @@
+County,Date of  Incident,Practice  Review?,Notification,90 Day,6 Month,age,gender,in_home,out_home,Serious Injury,Death / Alleged maltreatment,Egregious incident,Death / Alleged suicide in out-of-home care,status
+La Crosse,2023-05-31,No,230531DSP-LaCr-1233,No,No,,,,,,,,,Error Processing
+Washington,2023-05-27,No,230527DSP-Wash-1232,No,No,,F,False,True,False,True,False,False,Done
+Vernon,2023-05-31,No,230525DSP-Vern-1231,No,No,4,M,False,True,False,False,True,False,Done
+Chippewa,2023-05-21,No,230521DSP-Chipp-1230,No,No,16,M,False,True,True,False,False,False,Done
+Fond Du Lac,2023-05-14,No,230514DSP-Fond-1229,No,No,3,M,False,True,False,True,False,False,Done
+Polk,2023-04-29,No,230429DSP-Polk-1228,No,No,1w,F,False,True,False,True,False,False,Done
+Dane,2023-04-24,No,230424DSP-Dane-1227,No,No,5,F,False,True,False,False,True,False,Done
+Waukesha,2023-04-16,No,230416DSP-Wauk-1226,No,No,12,F,False,True,False,False,True,False,Done
+Milwaukee,2023-04-17,No,230417DSP-Milw-1225,No,No,,F,False,True,True,False,False,False,Done
+Milwaukee,2023-04-07,No,230407DSP-Milw-1224,No,No,8,M,False,True,False,False,True,False,Done
+Walworth,2023-01-20,No,230120DSP-Walw-1223,No,No,13,M,False,True,False,True,False,False,Done
+La Crosse,2023-04-07,No,230406DSP-LaCr-1221,No,No,6,F,False,True,True,False,False,False,Done
+Milwaukee,2023-04-01,No,230401DSP-Milw-1220,No,No,,Missing,False,True,False,True,False,False,Done
+Jefferson,2023-01-27,No,230127DSP-Jeff-1219,No,No,,M,False,True,False,True,False,False,Done
+Kenosha,2023-03-24,No,230322DSP-Keno-1218,No,No,7,M,False,True,False,False,True,False,Done
+Buffalo,2023-03-08,No,230308DSP-Buff-1217,No,No,7,F,False,True,False,True,False,False,Done
+Washburn,2023-03-01,No,230301DSP-Wshb-1216,No,No,2,F,False,True,False,False,True,False,Done
+Milwaukee,2023-03-04,No,230304DSP-Milw-1215,No,No,2,M,False,True,False,True,False,False,Done
+Milwaukee,2023-02-24,No,230224DSP-Wauk-1214,No,No,15,M,False,True,False,False,True,False,Done
+Milwaukee,2023-02-13,No,230213DSP-Milw-1213,No,No,2,M,False,True,False,False,True,False,Done
+Milwaukee,2023-02-21,No,230221DSP-Milw-1212,230221DSP-Milw-1212-90D,No,5,M,False,True,True,False,False,False,Done
+Dane,2023-02-20,No,230220DSP-Dane-1211,230220DSP-Dane-1211-90D,No,6,M,False,True,False,False,True,False,Done
+Brown,2023-02-13,Yes,230213DSP-Brown-1210,230213DSP-Brown-1210-90D,No,2w,F,False,True,True,False,False,False,Done
+Wood,2023-02-15,No,230212DSP-Wood-1209,230212DSP-Wood-1209-90D,No,,F,False,True,False,True,False,False,Done
+La Crosse,2023-02-11,Yes,230211DSP-LaCr-1208,230211DSP-LaCr-1208-90D,No,6,M,False,True,False,True,False,False,Done
+Milwaukee,2023-02-11,No,230211DSP-Milw-1207,230211DSP-Milw-1207-90D,No,1,F,False,True,False,True,False,False,Done
+Wood,2023-02-02,No,230202DSP-Wood-1206,230202DSP-Wood-1206-90D,No,,F,False,True,False,True,False,False,Done
+Milwaukee,2023-02-04,No,230204DSP-Milw-1205,230204DSP-Milw-1205-90D,No,5w,Missing,False,True,False,True,False,False,Done
+Milwaukee,2023-01-27,No,230127DSP-Milw-1204,230127DSP-Milw-1204-90D,No,1,M,False,True,False,True,False,False,Done
+Dane,2023-01-24,No,230124DSP-Dane-1203,230124DSP-Dane-1203-90D,No,,F,False,True,True,False,False,False,Done
+Waukesha,2022-01-17,No,230117DSP-Wauk-1202,230117DSP-Wauk-1202-90D,No,,,,,,,,,No PDF
+St. Croix,2022-11-17,No,221117DSP-StCro-1201,221117DSP-StCro-1201-90D,No,,M,False,True,True,False,False,False,Done
+Dane,2023-01-14,No,230114DSP-Dane-1200,230114DSP-Dane-1200-90D,No,,,,,,,,,Error Processing
+Milwaukee,2023-01-18,No,230114DSP-Milw-1199,230114DSP-Milw-1199-90D,No,,F,False,True,False,False,True,False,Done
+Milwaukee,2022-12-25,Yes,221225DSP-Milw-1197,221225DSP-Milw-1197-90D,No,,F,False,True,True,False,False,False,Done
+Vernon,2023-01-08,No,230108DSP-Vern-1198,230108DSP-Vern-1198-90D,No,1,M,False,True,True,False,False,False,Done
+Milwaukee,2022-12-16,No,221216DPS-Milw-1196,221216DPS-Milw-1196-90D,No,,,,,,,,,No PDF
+Juneau,2022-10-07,No,221007DSP-June-1195,221007DSP-June-1195-90D,No,,M,False,True,False,True,False,False,Done
+Winnebago,2022-11-26,No,221126DSP-Winn-1194,221126DSP-Winn-1194-90D,No,,M,False,True,False,True,False,False,Done
+Barron,2022-11-18,No,221118DSP-Barr-1193,221118DSP-Barr-1193-90D,No,,M,False,True,True,False,False,False,Done
+Winnebago,2022-11-12,No,221112DSP-Winn-1192,221112DSP-Winn-1192-90D,No,3,F,False,True,False,True,False,False,Done
+Winnebago,2022-11-07,No,221107DSP-Winn-1191,221107DSP-Winn-1191-90D,No,1,F,False,True,False,False,True,False,Done
+Juneau,2022-07-16,No,220716DSP-June-1190,220716DSP-June-1190-90D,No,1,M,False,True,True,False,False,False,Done
+Barr,2022-11-07,No,221107DSP-Barr-1189,221107DSP-Barr-1189-90D,No,17,M,False,True,True,False,False,False,Done
+Milwaukee,2022-10-28,No,221028DSP-Milw-1188,221028DSP-Milw-1188-90D,No,1,F,False,True,True,False,False,False,Done
+Milwaukee,2022-10-24,No,221024DSP-Milw-1187,221024DSP-Milw-1187-90D,No,5w,M,False,True,False,True,False,False,Done
+Brown,2022-10-17,No,221017DSP-Brown-1186,221017DSP-Brown-1186-90D,No,5,F,False,True,False,True,False,False,Done
+Fond Du Lac,2022-10-16,Yes,221016DSP-Fond-1185,221016DSP-Fond-1185-90D,No,5w,M,False,True,False,True,False,False,Done
+Washington,2022-10-06,No,221006DSP-Wash-1183,221006DSP-Wash-1183-90D,No,,Missing,False,True,False,True,False,False,Done
+Manitowoc,2022-10-06,Yes,221006DSP-Mani-1184,221006DSP-Mani-1184-90D,No,3,M,False,True,False,True,False,False,Done
+Dane,2022-10-06,No,221006DSP-Dane-1182,221006DSP-Dane-1182-90D,No,,M,False,True,True,False,False,False,Done
+Fond Du Lac,2022-09-26,Yes,220926DSP-Fond-1181,220926DSP-Fond-1181-90D,No,1,F,False,True,False,True,False,False,Done
+Milwaukee,2021-08-06,No,210806DSP-Milw-1180,210806DSP-Milw-1180-90D,No,,,,,,,,,No PDF
+Marathon,2021-08-06,No,210806-DSP-Mara-1179,210806-DSP-Mara-1179-90D,No,,,,,,,,,No PDF
+Milwaukee,2022-10-02,No,221002DSP-Milw-1178,221002DSP-Milw-1178-90D,No,1,F,False,True,False,True,False,False,Done
+Milwaukee,2022-09-24,No,220924DSP-Milw-1177,220924DSP-Milw-1177-90D,No,12,M,False,True,False,True,False,False,Done
+Manitowoc,2022-10-01,No,221001DSP-Mani-1176,221001DSP-Mani-1176-90D,No,1,M,False,True,False,True,False,False,Done
+Fond Du Lac,2022-09-24,No,220924DSP-Fond-1175,220924DSP-Fond-1175-90D,No,7w,M,False,True,True,False,False,False,Done
+Rock,2022-09-15,No,220915-DSP-Rock-1174,220915-DSP-Rock-1174-90D,No,,,,,,,,,No PDF
+Milwaukee,2022-09-19,No,220919-DSP-Milw-1173,220919-DSP-Milw-1173-90D,No,,,,,,,,,No PDF
+Chippewa,2022-09-18,No,220918DSP-Chipp-1172,220918DSP-Chipp-1172-90D,No,3,M,False,True,True,False,False,False,Done
+Green,2022-09-12,No,220912DSP-Green-1171,220912DSP-Green-1171-90D,No,5,F,False,True,False,False,True,False,Done
+Winnebago,2022-09-03,No,220903DSP-Winn-1170,220903DSP-Winn-1170-90D,No,,F,False,True,False,True,False,False,Done
+Trempealeau,2022-09-08,No,220908DSP-Tremp-1169,220908DSP-Tremp-1169-90D,No,6,F,False,True,False,False,True,False,Done
+Milwaukee,2022-08-31,No,220831DSP-Milw-1168,220831DSP-Milw-1168-90D,No,,M,False,True,True,False,False,False,Done
+Milwaukee,2022-08-27,No,220827DSP-Milw-1167,220827DSP-Milw-1167-90D,No,2,M,False,True,True,False,False,False,Done
+Milwaukee,2022-08-20,No,220820DSP-Milw-1166,220820DSP-Milw-1166-90D,No,1,M,False,True,False,True,False,False,Done
+Kenosha,2022-08-11,No,220811DSP-Keno-1165,220811DSP-Keno-1165-90D,No,8,M,False,True,False,True,False,False,Done
+Racine,2022-08-16,No,220816DSP-Racin-1164,220816DSP-Racin-1164-90D,No,3,M,False,True,False,True,False,False,Done
+Milwaukee,2022-07-20,No,220720DSP-Milw-1163,220720DSP-Milw-1163-90D,No,3w,F,False,True,False,True,False,False,Done
+Dane,2022-07-15,No,220715DSP-Milw-1162,220715DSP-Milw-1162-90D,No,2,F,False,True,False,True,False,False,Done
+Dane,2022-01-01,Yes,220101DSP-Dane-1161,220101DSP-Dane-1161-90D,No,,M,False,True,False,True,False,False,Done
+Milwaukee,2022-07-13,No,220706DSP-Milw-1160,220706DSP-Milw-1160-90D,No,,M,False,True,False,True,False,False,Done
+St Croix,2022-06-30,No,220630DSP-StCro-1159,220630DSP-StCro-1159-90D,No,,M,False,True,False,True,False,False,Done
+Milwaukee,2022-07-01,No,220701DSP-Milw-1158,220701DSP-Milw-1158-90D,No,3,M,False,True,False,True,False,False,Done
+Waupaca,2022-06-29,No,220629DSP-Waup-1157,220629DSP-Waup-1157-90D,No,6,F,False,True,False,True,False,False,Done
+Milwaukee,2022-07-02,No,220702DSP-Milw-1156,220702DSP-Milw-1156-90D,No,3,M,False,True,False,False,True,False,Done
+Brown,2022-06-16,No,220616DSP-Brown-1155,220616DSP-Brown-1155-90D,No,,M,False,True,False,True,False,False,Done
+Milwaukee,2022-06-16,Yes,220616DSP-Milw-1154,220616DSP-Milw-1154-90D,220616DSP-Milw-1154-6M,2,M,False,True,False,True,False,False,Done
+Waupaca,2022-06-17,No,220602DSP-Waup-1153,220602DSP-Waup-1153-90D,No,2w,M,False,True,False,False,True,False,Done
+Milwaukee,2022-06-10,Yes,220610DSP-Milw-1152,2220610DSP-Milw-1152-90D,220610DSP-Milw-1152-6M,,F,False,True,False,True,False,False,Done
+Rock,2022-05-16,Yes,220516DSP-Rock-1151,220516DSP-Rock-1151-90D,220516DSP-Rock-1151-6M,1,F,False,True,True,False,False,False,Done
+Washburn,2022-05-22,No,220522DSP-Wshb-1150,220522DSP-Wshb-1150-90D,No,16,F,False,True,True,False,False,False,Done
+Kenosha,2022-05-21,No,220521DSP-Keno-1149,220521DSP-Keno-1149-90D,No,,M,False,True,False,True,False,False,Done
+Marathon,2022-05-02,No,220502DSP-Mara-1148,220502DSP-Mara-1148-90D,No,,,,,,,,,Error Processing
+Milwaukee,2022-05-11,No,220512DSP-Milw-1147,220512DSP-Milw-1147-90D,No,5,M,False,True,False,True,False,False,Done
+Milwaukee,2022-05-05,No,220505DSP-Milw-1146,220505DSP-Milw-1146-90D,No,,F,False,True,False,True,False,False,Done
+Dane,2022-05-05,No,220505DSP-Dane-1145,220505DSP-Dane-1145-90D,No,,M,False,True,True,False,False,False,Done
+Brown,2022-05-03,Yes,220503DSP-Brown-1144,220503DSP-Brown-1144-90D,220503DSP-Brown-1144-6M,1,M,False,True,False,True,False,False,Done
+Chippewa,2022-04-24,No,220424DSP-Chipp-1143,220424DSP-Chipp-1143-90D,No,10,F,False,True,False,True,False,False,Done
+Dane,2022-04-25,No,220425DSP-Dane-1142,220425DSP-Dane-1142-90D,No,1,F,False,True,False,True,False,False,Done
+Portage,2022-04-19,No,220419DSP-Port-1141,220419DSP-Port-1141-90D,No,,Missing,False,True,True,False,False,False,Done
+Dane,2022-04-13,No,220413DSP-Dane-1140,220413DSP-Dane-1140-90D,No,,M,False,True,True,False,False,False,Done
+Milwaukee,2022-04-16,No,220416DSP-Milw-1139,220416DSP-Milw-1139-90D,No,,M,False,True,True,False,False,False,Done
+Rock,2022-02-01,No,220201DSP-Rock-1138,220201DSP-Rock-1138-90D,No,1,F,False,True,False,True,False,False,Done
+Sheboygan,2022-03-30,No,220330DSP-Sheb-1137,220330DSP-Sheb-1137-90D,No,8,M,False,True,True,False,False,False,Done
+Rock,2022-03-18,No,220318DSP-Rock-1136,220318DSP-Rock-1136-90D,No,,M,False,True,False,True,False,False,Done
+Manitowoc,2022-03-21,No,220316DSP-Mani-1135,220316DSP-Mani-1135-90D,No,5,F,False,True,False,True,False,False,Done
+Vernon,2022-03-08,No,220308DSP-Vern-1134,220308DSP-Vern-1134-90D,No,,Missing,False,True,True,False,False,False,Done
+Dane,2022-03-07,No,220307DSP-Dane-1133,220307DSP-Dane-1133-90D,No,11,M,False,True,True,False,False,False,Done
+Iowa,2022-02-25,No,220225DSP-Iowa-1132,220225DSP-Iowa-1132-90D,No,,Missing,False,True,True,False,False,False,Done
+Milwaukee,2022-02-19,No,220219DSP-Milw-1131,220219DSP-Milw-1131-90D,No,12,F,False,True,False,True,False,False,Done
+Milwaukee,2022-02-14,No,220214DSP-Milw-1130,220214DSP-Milw-1130-90D,No,,F,False,True,True,False,False,False,Done
+Oneida,2022-02-20,No,220220DSP-Onei-1129,220220DSP-Onei-1129-90D,No,,M,False,True,True,False,False,False,Done
+Milwaukee,2021-11-08,No,211108DSP-Milw-1128,211108DSP-Milw-1128-90D,No,,,,,,,,,No PDF
+Winnebago,2022-02-15,Yes,220215DSP-Winn-1127,220215DSP-Winn-1127-90D,220215DSP-Winn-1127-6M,,M,False,True,True,False,False,False,Done
+Milwaukee,2022-02-10,No,220210DSP-Milw-1126,220210DSP-Milw-1126-90D,No,,M,False,True,False,True,False,False,Done
+Milwaukee,2022-02-10,No,220210DSP-Milw-1125,220210DSP-Milw-1125-90D,No,10,F,False,True,False,True,False,False,Done
+Pier,2022-02-05,Yes,220205DSP-Pier-1124,220205DSP-Pier-1124-90D,220205DSP-Pier-1124-6M,2w,F,False,True,False,True,False,False,Done
+St. Croix,2022-02-04,Yes,220204DSP-StCro-1123,220204DSP-StCro-1123-90D,No,7w,F,False,True,True,False,False,False,Done
+Dane,2022-01-31,No,220131DSP-Dane-1122,220131DSP-Dane-1122-90D,No,,F,False,True,False,True,False,False,Done
+Waupaca,2022-01-29,No,220129DSP-Waup-1121,220129DSP-Waup-1121-90D,No,6w,M,False,True,False,False,True,False,Done
+Rock,2022-01-26,No,220126DSP-Rock-1120,220126DSP-Rock-1120-90D,No,12,M,False,True,False,False,True,False,Done
+Kenosha,2022-01-25,No,220125DSP-Keno-1119,220125DSP-Keno-1119-90D,No,,M,False,True,False,True,False,False,Done
+Douglas,2022-01-19,No,220114DSP-Doug-1118,220114DSP-Doug-1118-90D,No,11,F,False,True,False,True,False,False,Done
+Milwaukee,2022-01-19,No,220115DSP-Milw-1117,220115DSP-Milw-1117-90D,No,8,F,False,True,False,True,False,False,Done
+Racine,2022-01-19,No,220115DSP-Racin-1116,220115DSP-Racin-1116-90D,No,,M,False,True,True,False,False,False,Done
+Manitowoc,2022-01-12,Yes,220112DSP-Mani-1115,220112DSP-Mani-1115-90D,220112DSP-Mani-1115-6M,3w,F,False,True,True,False,False,False,Done
+Milwaukee,2022-01-06,No,220106DSP-Milw-1114,220106DSP-Milw-1114-90D,No,14,F,False,True,False,False,True,False,Done
+Milwaukee,2021-12-30,Yes,211230DSP-Milw-1113,211230DSP-Milw-1113-90D,211230DSP-Milw-1113-6M,8,M,False,True,False,True,False,False,Done
+Milwaukee,2021-12-28,Yes,211228DSP-Milw-1112,211228DSP-Milw-1112-90D,211228DSP-Milw-1112-6M,16,F,False,True,False,True,False,False,Done
+Brown,2021-12-27,No,211227DSP-Brown-1111,211227DSP-Brown-1111-90D,No,,M,False,True,False,True,False,False,Done
+Vilas,2021-12-03,Yes,211203DSP-Vilas-1110,211203DSP-Vilas-1110-90D,211203DSP-Vilas-1110-6M,6,M,False,True,False,True,False,False,Done
+Monroe,2021-12-01,Yes,211201DSP-Monro-1109,211201DSP-Monro-1109-90D,211201DSP-Monro-1109-6M,,M,False,True,True,False,False,False,Done
+Milwaukee,2021-11-26,Yes,211126DSP-Milw-1108,211126DSP-Milw-1108-90D,211126DSP-Milw-1108-6M,,F,False,True,True,False,False,False,Done
+Milwaukee,2021-09-30,Yes,210930DSP-Milw-1107,210930DSP-Milw-1107-90D,210930DSP-Milw-1107-6M,1,M,False,True,False,True,False,False,Done
+Milwaukee,2020-05-05,No,200505DSP-Milw-1106,200505DSP-Milw-1106-90D,No,,,,,,,,,No PDF
+Sheboygan,2020-01-22,No,200122DSP-Sheb-1104,200122DSP-Sheb-1104-90D,No,,M,False,True,False,True,False,False,Done
+Sheboygan,2021-10-24,No,211024DSP-Sheb-1105,211024DSP-Sheb-1105-90D,No,,M,False,True,True,False,False,False,Done
+Dodge,2021-10-28,No,211028DSP-Dodge-1102,211028DSP-Dodge-1102-90D,No,7w,M,False,True,False,True,False,False,Done
+Milwaukee,2021-10-27,No,211027DSP-Milw-1103,211027DSP-Milw-1103-90D,No,9,M,False,True,True,False,False,False,Done
+Milwaukee,2020-02-28,No,200228DSP-Milw-1101,200228DSP-Milw-1101-90D,No,,,,,,,,,No PDF
+Kewaunee,2021-10-08,Yes,211005DSP-Kewa-1100,211005DSP-Kewa-1100-90D,211005DSP-Kewa-1100-90D,7,F,False,True,True,False,False,False,Done
+Dane,2021-10-06,No,211002DSP-Dane-1099,211002DSP-Dane-1099-90D,No,,,,,,,,,Error Processing
+Dane,2021-10-01,No,210928DSP-Dane-1098,210928DSP-Dane-1098-90D,No,,,,,,,,,Error Processing
+Polk,2021-09-29,No,210925DSP-Polk-1097,210925DSP-Polk-1097-90D,No,4w,M,False,True,False,False,True,False,Done
+Washington,2021-09-21,No,210921DSP-Wash-1096,210921DSP-Wash-1096-90D,No,,F,False,True,False,True,False,False,Done
+Eau Claire,2021-09-21,No,210721DSP-EauCl-1094,210721DSP-EauCl1094-90D,No,14,M,False,True,False,True,False,False,Done
+Columbia,2021-09-17,No,210917DSP-Colum-1095,210917DSP-Colum-1095-90D,No,,,,,,,,,Error Processing
+Milwaukee,2021-09-06,No,210906DSP-Milw-1093,210906DSP-Milw-1093-90D,No,6,M,False,True,False,True,False,False,Done
+Kenosha,2021-09-04,No,210904DSP-Keno-1092,210904DSP-Keno-1092-90D,No,8w,Missing,False,True,False,True,False,False,Done
+Eau Claire,2021-09-01,Yes,210901DSP-EauCl-1091,210901DSP-EauCl-1091-90D,210901DSP-EauCl-1091-90D,2,M,False,True,True,False,False,False,Done
+Milwaukee,2021-07-05,No,210705DSP-Milw-1090,210705DSP-Milw-1090-90D,No,1,M,False,True,False,True,False,False,Done
+Milwaukee,2021-08-29,Yes,210829DSP-Milw-1089,210829DSP-Milw-1089-90D,210829DSP-Milw-1089-6M,8,M,False,True,False,True,True,False,Done
+Sawyer,2021-08-05,No,210805DSP-Sawyer-1088,210805DSP-Sawyer-1088-90D,No,,,,,,,,,Error Processing
+Marathon,2021-08-15,Yes,210815DSP-Mara-1087,210815DSP-Mara-1087-90D,210815DSP-Mara-1087-6M,,,,,,,,,Error Processing
+Green Lake,2021-08-01,Yes,210801DSP-GrnLk-1086,210801DSP-GrnLk-1086-90D,210801DSP-GrnLk-1086-6M,,,,,,,,,Error Processing
+Sauk,2021-08-06,No,210806DSP-Sauk-1085,210806DSP-Sauk-1085-90D,No,,,,,,,,,Error Processing
+Winnebago,2021-08-03,No,210803DSP-Winn-1084,210803DSP-Winn-1084-90D,No,,,,,,,,,Error Processing
+Milwaukee,2021-08-01,No,210801DSP-Milw-1083,210801DSP-Milw-1083-90D,No,,,,,,,,,Error Processing
+Milwaukee,2021-08-01,No,210801DSP-Milw-1082,210801DSP-Milw-1082-90D,No,,,,,,,,,Error Processing
+Eau Claire,2021-07-21,No,210721DSP-EauCl-1081,210721DSP-EauCl-1081-90D,No,,,,,,,,,Error Processing
+Dane,2021-07-20,Yes,210720DSP-Dane-1080,210720DSP-Dane-1080-90D,210720DSP-Dane-1080-6M,,,,,,,,,Error Processing
+Shawano,2021-07-02,No,210702DSP-Shawn-1079,210702DSP-Shawn-1079-90D,No,,,,,,,,,Error Processing
+Milwaukee,2021-06-29,No,210629DSP-Milw-1078,210629DSP-Milw-1078-90D,No,,,,,,,,,Error Processing
+Taylor,2021-06-29,No,210629DSP-Tayl-1077,210629DSP-Tayl-1077-90D,No,,,,,,,,,Error Processing
+Milwaukee,2021-04-26,No,210426DSP-Milw-1076,210426DSP-Milw-1076-90D,No,,,,,,,,,Error Processing
+Milwaukee,2021-06-24,No,210624DSP-Milw-1075,210624DSP-Milw-1075-90D,No,,,,,,,,,Error Processing
+Jefferson,2021-06-11,No,210611DSP-Jeff-1074,210611DSP-Jeff-1074-90D,No,,,,,,,,,Error Processing
+Rock,2021-04-28,No,210428DSP-Rock-1073,210428DSP-Rock-1073-90D,No,,,,,,,,,Error Processing
+Racine,2021-05-31,No,210531DSP-Racin-1072,210531DSP-Racin-1072-90D,No,,,,,,,,,Error Processing
+Rock,2021-04-16,No,2100416DSP-Rock-1071,2100416DSP-Rock-1071-90D,No,,,,,,,,,No PDF
+Kenosha,2021-05-20,Yes,210520DSP-Keno-1070,210520DSP-Keno-1070-90D,210520DSP-Keno-1070-6M,,,,,,,,,Error Processing
+Milwaukee,2021-05-19,No,210519DSP-Milw-1069,210519DSP-Milw-1069-90D,No,,,,,,,,,Error Processing
+Saint Croix,2021-05-12,No,210512DSP-StCro-1068,210512DSP-StCro-1068-90D,No,,,,,,,,,Error Processing
+Milwaukee,2021-05-09,No,210509DSP-Milw-1067,210509DSP-Milw-1067-90D,No,,,,,,,,,Error Processing
+Crawford,2021-05-05,No,210503DSP-Craw-1066,210503DSP-Craw-1066-90D,No,,,,,,,,,Error Processing
+Racine,2021-05-03,No,210503DSP-Racin-1065,210503DSP-Racin-1065-90D,No,,,,,,,,,Error Processing
+Kenosha,2021-04-20,No,210421DSP-Keno-1064,210421DSP-Keno-1064-90D,No,,,,,,,,,Error Processing
+Vernon,2021-04-11,No,210411DSP-Vern-1063,210411DSP-Vern-1063-90D,No,,,,,,,,,Error Processing
+Winnebago,2021-04-07,Yes,210407DSP-Winn-1062,210407DSP-Winn-1062-90D,210407DSP-Winn-1062-6M,,,,,,,,,Error Processing
+Waupaca,2021-04-05,No,210405DSP-Waup-1061,210405DSP-Waup-1061-90D,No,,,,,,,,,Error Processing
+Jackson,2021-04-03,No,210403DSP-Jack-1060,210403DSP-Jack-1060-90D,No,,,,,,,,,Error Processing
+Kenosha,2021-03-26,Yes,210326DSP-Keno-1059,210326DSP-Keno-1059-90D,210326DSP-Keno-1059-6M,,,,,,,,,Error Processing
+Winnebago,2021-03-21,Yes,210327DSP-Winn-1058,210327DSP-Winn-1058-90D,210327DSP-Winn-1058-6M,,,,,,,,,Error Processing
+Marathon,2021-03-21,Yes,210321DSP-Mara-1057,210321DSP-Mara-1057-90D,210321DSP-Mara-1057-6M,,,,,,,,,Error Processing
+Kenosha,2021-02-17,No,210217DSP-Keno-1051,210217DSP-Keno-1051-90D,No,,,,,,,,,Error Processing
+Rock,2021-02-20,Yes,210220DSP-Rock-1056,210220DSP-Rock-1056-90D,210220DSP-Rock-1056-6M,,,,,,,,,Error Processing
+Dunn,2021-02-20,Yes,210220DSP-Dunn-1055,210220DSP-Dunn-1055-90D,210220DSP-Dunn-1055-6M,,,,,,,,,Error Processing
+Dane,2021-02-19,No,210219DSP-Dane-1054,210219DSP-Dane-1054-90D,No,,,,,,,,,Error Processing
+Douglas,2021-02-14,No,210214DSP-Doug-1053,210214DSP-Doug-1053-90D,No,,,,,,,,,Error Processing
+Marathon,2021-02-18,No,210218DSP-Mara-1052,210218DSP-Mara-1052-90D,No,,,,,,,,,Error Processing
+Winnebago,2021-02-11,No,210211DSP-Winn-1050,210211DSP-Winn-1050-90D,No,,,,,,,,,Error Processing
+Dunn,2021-02-14,Yes,210214DSP-Dunn-1049,210214DSP-Dunn-1049-90D,210214DSP-Dunn-1049-6M,,,,,,,,,Error Processing
+Racine,2021-02-14,No,210214DSP-Racin-1048,210214DSP-Racin-1048-90D,No,,,,,,,,,Error Processing
+Rock,2021-02-02,No,210202DSP-Rock-1047,210202DSP-Rock-1047-90D,No,,,,,,,,,Error Processing
+Kewaunee,2021-02-09,No,210209DSP-Kewa-1046,210209DSP-Kewa-1046-90D,No,,,,,,,,,Error Processing
+Shawano,2021-02-08,No,210208DSP-Shawn-1045,210208DSP-Shawn-1045-90D,No,,,,,,,,,Error Processing
+Taylor,2021-01-31,No,210131DSP-Tayl-1044,210131DSP-Tayl-1044-90D,No,,,,,,,,,Error Processing
+Milwaukee,2021-01-23,No,210123DSP-Milw-1043,210123DSP-Milw-1043-90D,No,,,,,,,,,Error Processing
+Burnett,2021-01-23,No,210123DSP-Burn-1042,210123DSP-Burn-1042-90D,No,,,,,,,,,Error Processing
+Jackson,2021-01-20,No,210120DSP-Jack-1041,210120DSP-Jack-1041-90D,No,,,,,,,,,Error Processing
+Juneau,2021-01-16,No,2101169DSP-June-1040,2101169DSP-June-1040-90D,No,,,,,,,,,No PDF
+Milwaukee,2021-01-15,No,2101159DSP-Milw-1039,2101159DSP-Milw-1039-90D,No,,,,,,,,,No PDF
+Marathon,2021-01-09,Yes,210109DSP-Mara-1038,210109DSP-Mara-1038-90D,210109DSP-Mara-1038-6M,,,,,,,,,Error Processing
+Green,2021-01-05,No,210105DSP-Green-1037,210105DSP-Green-1037-90D,No,,,,,,,,,Error Processing
+Outagamie,2021-01-03,No,210103DSP-Outag-1036,210103DSP-Outag-1036-90D,No,,,,,,,,,Error Processing
+Milwaukee,2020-12-19,No,201219DSP-Milw-1035,201219DSP-Milw-1035-90D,No,,,,,,,,,Error Processing
+Dodge,2020-12-20,No,201220DSP-Dodge-1034,201220DSP-Dodge-1034-90D,No,,,,,,,,,Error Processing
+Manitowoc,2020-11-28,No,201128DSP-Mani-1033,201128DSP-Mani-1033-90D,No,,,,,,,,,Error Processing
+Racine,2020-11-26,No,201126DSP-Racin-1032,201126DSP-Racin-1032-90D,No,,,,,,,,,Error Processing
+Columbia,2020-11-21,No,201121DSP-Colum-1031,201121DSP-Colum-1031-90D,No,,,,,,,,,Error Processing
+Lincoln,2020-11-12,Yes,201112DSP-Linc-1030,201112DSP-Linc-1030-90D,201112DSP-Linc-10306-6M,,,,,,,,,Error Processing
+Marathon,2020-11-05,Yes,201105DSP-Mara-1029,201105DSP-Mara-1029-90D,201105DSP-Mara-1029-6M,,,,,,,,,Error Processing
+Milwaukee,2020-10-12,No,201012DSP-Milw-1028,201012DSP-Milw-1028-90D,No,,,,,,,,,Error Processing
+La Crosse,2020-10-08,No,201008DSP-LaCr-1027,201008DSP-LaCr-1027-90D,No,,,,,,,,,Error Processing
+Wood,2020-10-01,Yes,201001DSP-Wood-1026,201001DSP-Wood-1026-90D,201001DSP-Wood-1026-6M,,,,,,,,,Error Processing
+Jackson,2020-09-25,No,200923DSP-Jack-1025,200923DSP-Jack-1025-90D,No,,,,,,,,,Error Processing
+Racine,2020-09-25,No,200925DSP-Racin-1024,200925DSP-Racin-1024-90D,No,,,,,,,,,Error Processing
+Iowa,2020-09-22,No,200922DSP-Iowa-1023,200922DSP-Iowa-1023-90D,No,,,,,,,,,Error Processing
+Sauk,2015-08-24,No,150824DSP-Sauk-1022,150824DSP-Sauk-1022-90D,No,,,,,,,,,No PDF
+Milwaukee,2020-09-19,Yes,200919DSP-Milw-1021,200919DSP-Milw-1021-90D,200919DSP-Milw-1021-6M,,,,,,,,,Error Processing
+Milwaukee,2020-09-19,No,200919DSP-Milw-1020,200919DSP-Milw-1020-90D,No,,,,,,,,,Error Processing
+Wood,2020-08-31,No,200831DSP-Wood-1019,200831DSP-Wood-1019-90D,No,,,,,,,,,Error Processing
+Langlade,2020-08-25,No,200825DSP-Lang-1018,200825DSP-Lang-1018-90D,No,,,,,,,,,Error Processing
+Saint Croix,2020-08-15,No,200815DSP-StCro-1017,200815DSP-StCro-1017-90D,No,,,,,,,,,Error Processing
+Dane,2020-07-30,No,200730DSP-Dane-1014,200730DSP-Dane-1014-90D,No,,,,,,,,,Error Processing
+Rusk,2020-07-27,No,200727DSP-Rusk-1013,200727DSP-Rusk-1013-90D,No,,,,,,,,,Error Processing
+La Crosse,2020-08-14,Yes,200814DSP-LaCr-1015,200814DSP-LaCr-1015-90D,200814DSP-LaCr-1015-6M,,,,,,,,,Error Processing
+Brown,2020-07-27,Yes,200727DSP-Brown-1011,200727DSP-Brown-1011-90D,200727DSP-Brown-1011-6M,,,,,,,,,Error Processing
+Milwaukee,2020-07-21,Yes,200721DSP-Milw-1010,200721DSP-Milw-1010-90D,200721DSP-Milw-1010-6M,,,,,,,,,Error Processing
+Crawford,2020-07-10,Yes,200710DSP-Craw-1009,200710DSP-Craw-1009-90D,200710DSP-Craw-1009-6M,,,,,,,,,Error Processing
+Kenosha,2020-07-10,No,200710DSP-Keno-1008,200710DSP-Keno-1008-90D,No,,,,,,,,,Error Processing
+Portage,2020-06-20,Yes,200620DSP-Port-1007,200620DSP-Port-1007-90D,200620DSP-Port-1007-6M,,,,,,,,,Error Processing
+Dodge,2020-06-16,No,200616DSP-Dodge-1006,200616DSP-Dodge-1006-90D,No,,,,,,,,,Error Processing
+Milwaukee,2020-06-12,No,200612DSP-Milw-1005,200612DSP-Milw-1005-90D,No,,,,,,,,,Error Processing
+Rock,2020-06-09,No,200609DSP-Rock-1004,200609DSP-Rock-1004-90D,No,,,,,,,,,Error Processing
+Milwaukee,2020-06-01,No,200601DSP-Milw-1003,200601DSP-Milw-1003-90D,No,,,,,,,,,Error Processing
+Milwaukee,2020-04-26,No,200426DSP-Milw-1002,200426DSP-Milw-1002-90D,No,,,,,,,,,Error Processing
+Winnebago,2020-05-22,No,200522DSP-Winn-1001,200522DSP-Winn-1001-90D,No,,,,,,,,,Error Processing
+Marathon,2020-05-22,No,200522DSP-Mara-1000,200522DSP-Mara-1000-90D,No,,,,,,,,,Error Processing
+Dane,2020-05-22,No,200522DSP-Dane-999,200522DSP-Dane-999-90D,No,,,,,,,,,Error Processing
+Milwaukee,2020-05-11,No,200511DSP-Milw-998,200511DSP-Milw-998-90D,No,,,,,,,,,Error Processing
+Milwaukee,2020-05-06,Yes,200506DSP-Milw-997,200506DSP-Milw-997-90D,200506DSP-Milw-997-6M,,,,,,,,,Error Processing
+Columbia,2020-04-25,No,200425DSP-Colum-996,200425DSP-Colum-996-90D,No,6,F,False,True,True,False,False,False,Done
+Columbia,2020-04-26,No,200426DSP-Colum-995,200426DSP-Colum-995-90D,No,2,M,False,True,True,False,False,False,Done
+Marathon,2020-03-30,No,200330DSP-Mara-994,200330DSP-Mara-994-90D,No,,M,False,True,False,True,False,False,Done
+Walworth,2020-04-07,No,200407DSP-Walw-993,200407DSP-Walw-993-90D,No,1,M,False,True,True,False,False,False,Done
+Jackson,2020-03-31,No,200331DSP-Jack-992,200331DSP-Jack-992-90D,No,,M,False,True,True,False,False,False,Done
+Brown,2020-03-31,Yes,200331DSP-Brown-991,200331DSP-Brown-991-90D,200331DSP-Brown-991-6M,5,M,False,True,False,True,False,False,Done
+Milwaukee,2020-03-30,Yes,200330DSP-Milw-990,200330DSP-Milw-990-90D,200330DSP-Milw-990-6M,,,,,,,,,Error Processing
+Rock,2020-03-07,No,200307DSP-Rock-989,200307DSP-Rock-989-90D,No,,,,,,,,,Error Processing
+Dodge,2020-03-06,No,200306DSP-Dodge-988,200306DSP-Dodge-988-90D,No,3,M,False,True,False,True,False,False,Done
+Outagamie,2020-02-26,No,200226DSP-Outag-987,No,No,3,F,False,True,False,True,False,False,Done
+Sauk,2020-02-28,No,200228DSP-Sauk-986,200228DSP-Sauk-986-90D,No,2,M,False,True,False,True,False,False,Done
+Outagamie,2020-02-17,No,200217DSP-Outag-985,200217DSP-Outag-985-90D,No,5,M,False,True,False,True,False,False,Done
+Dane,2020-02-19,No,200219DSP-Dane-984,200219DSP-Dane-984-90D,No,,,,,,,,,Error Processing
+Milwaukee,2020-01-01,No,200101DSP-Milw-983,200101DSP-Milw-983-90D,No,,,,,,,,,Error Processing
+Milwaukee,2020-02-16,No,200216DSP-Milw-982,200216DSP-Milw-982-90D,No,,,,,,,,,Error Processing
+Waukesha,2020-02-08,No,200208DSP-Wauk-981,200208DSP-Wauk-981-90D,No,,,,,,,,,Error Processing
+Winnebago,2020-01-18,No,200118DSP-Winn-980,200118DSP-Winn-980-90D,No,,,,,,,,,Error Processing
+Vilas,2020-01-11,No,200111DSP-Vilas-979,200111DSP-Vilas-979-90D,No,,,,,,,,,Error Processing
+Brown,2019-12-29,No,191229DSP-Brown-978,191229DSP-Brown-978-90D,No,,,,,,,,,Error Processing
+Menominee,2020-01-07,No,200107DSP-Meno-977,200107DSP-Meno-977-90D,No,,,,,,,,,Error Processing
+Iron,2020-01-08,No,200108DSP-Iron-976,200108DSP-Iron-976-90D,No,,,,,,,,,Error Processing
+Douglas,2020-01-01,Yes,200107DSP-Doug-975,200107DSP-Doug-975-90D,200107DSP-Doug-975-6M,,,,,,,,,Error Processing
+Oconto,2020-01-08,No,200108DSP-Ocon-974,200108DSP-Ocon-974-90D,No,,,,,,,,,Error Processing
+Milwaukee,2019-12-28,Yes,191228DSP-Milw-973,191228DSP-Milw-973-90D,191228DSP-Milw-973-6M,,,,,,,,,Error Processing
+Kenosha,2019-12-26,No,191226DSP-Keno-972,191226DSP-Keno-972-90D,No,,,,,,,,,Error Processing
+Wood,2019-12-26,No,191226DSP-Wood-971,191226DSP-Wood-971-90D,No,,,,,,,,,Error Processing
+Racine,2019-12-27,No,191227DSP-Racin-970,191227DSP-Racin-970-90D,No,,,,,,,,,Error Processing
+Milwaukee,2019-12-18,No,191218DSP-Milw-1012,191218DSP-Milw-1012-90D,No,,,,,,,,,Error Processing
+Rock,2019-12-03,No,191203DSP-Rock-969,191203DSP-Rock-969-90D,No,,,,,,,,,Error Processing
+Kenosha,2019-12-10,Yes,191210DSP-Keno-968,191210DSP-Keno-968-90D,191210DSP-Keno-968-6M,,,,,,,,,Error Processing
+Milwaukee,2019-12-02,No,191202DSP-Milw-967,191202DSP-Milw-967-90D,No,,,,,,,,,Error Processing
+Brown,2019-11-15,No,191115DSP-Brown-966,191115DSP-Brown-966-90D,No,,,,,,,,,Error Processing
+Dodge,2019-11-23,No,191123DSP-Dodge-965,191123DSP-Dodge-965-90D,No,,,,,,,,,Error Processing
+Milwaukee,2019-11-23,No,191123DSP-Milw-964,191123DSP-Milw-964-90D,No,,,,,,,,,Error Processing
+Dane,2019-11-20,No,191120DSP-Dane-963,191120DSP-Dane-963-90D,No,,,,,,,,,Error Processing
+Milwaukee,2019-11-09,Yes,191109DSP-Milw-962,191109DSP-Milw-962-90D,191109DSP-Milw-962-6M,,,,,,,,,Error Processing
+Dane,2019-10-23,No,191023DSP-Dane-961,191023DSP-Dane-961-90D,No,,,,,,,,,Error Processing
+Waukesha,2019-10-21,No,191021DSP-Wauk-960,191021DSP-Wauk-960-90D,No,,,,,,,,,Error Processing
+Saint Croix,2019-10-16,No,191016DSP-StCro-959,191016DSP-StCro-959-90D,No,,,,,,,,,No PDF
+Marinette,2019-10-12,No,191012DSP-Marin-958,191012DSP-Marin-958-90D,No,,,,,,,,,Error Processing
+Winnebago,2019-10-09,Yes,191009DSP-Winn-1016,191009DSP-Winn-1016-90D,191009DSP-Winn-1016-6M,,,,,,,,,Error Processing
+Saint Croix,2019-10-05,No,191005DSP-StCro-957,191005DSP-StCro-957-90D,No,,,,,,,,,Error Processing
+Outagamie,2019-10-07,No,191007DSP-Outag-956,191007DSP-Outag-956-90D,No,,,,,,,,,Error Processing
+Brown,2019-10-02,No,191002DSP-Brown-955,191002DSP-Brown-955-90D,No,,,,,,,,,Error Processing
+Winnebago,2019-09-19,No,190919DSP-Winn-954,190919DSP-Winn-954-90D,No,,,,,,,,,Error Processing
+Vernon,2019-09-08,No,190908DSP-Vern-953,190908DSP-Vern-953-90D,No,,,,,,,,,Error Processing
+Kenosha,2019-09-06,Yes,190906DSP-Keno-952,190906DSP-Keno-952-90D,190906DSP-Keno-952-6M,,,,,,,,,Error Processing
+Milwaukee,2019-09-04,No,190904DSP-Milw-951,190904DSP-Milw-951-90D,No,,,,,,,,,Error Processing
+Jackson,2019-09-04,No,190905DSP-Jack-950,190905DSP-Jack-950-90D,No,,,,,,,,,No PDF
+Milwaukee,2019-08-29,Yes,190829DSP-Milw-949,190829DSP-Milw-949-90D,190829DSP-Milw-949-6M,,,,,,,,,Error Processing
+Rock,2019-08-01,No,190801DSP-Rock-948,190801DSP-Rock-948-90D,No,,,,,,,,,Error Processing
+Barron,2019-08-20,No,190820DSP-Barr-947,190820DSP-Barr-947-90D,No,,,,,,,,,Error Processing
+Kenosha,2019-07-28,No,190728DSP-Keno-946,190728DSP-Keno-946-90D,No,,,,,,,,,Error Processing
+Winnebago,2019-08-08,Yes,190808DSP-Winn-945,190808DSP-Winn-945-90D,190808DSP-Winn-945-6M,,,,,,,,,Error Processing
+Rock,2019-08-01,No,190801DSP-Rock-944,190801DSP-Rock-944-90D,No,,,,,,,,,Error Processing
+Washington,2019-05-31,No,190531DSP-Wash-943,190531DSP-Wash-943-90D,No,,,,,,,,,Error Processing
+Marathon,2019-07-28,No,190728DSP-Mara-942,190728DSP-Mara-942-90D,No,,,,,,,,,No PDF
+Trempealeau,2019-07-22,No,190722DSP-Tremp-941,190722DSP-Tremp-941-90D,No,,,,,,,,,Error Processing
+Manitowoc,2019-07-19,No,190719DSP-Mani-940,190719DSP-Mani-940-90D,No,,,,,,,,,Error Processing
+Waukesha,2019-07-17,No,190717DSP-Wauk-939,190717DSP-Wauk-939-90D,No,,,,,,,,,Error Processing
+Winnebago,2019-07-16,Yes,190716DSP-Winn-938,190716DSP-Winn-938-90D,190716DSP-Winn-938-6M,,,,,,,,,Error Processing
+Dodge,2019-02-23,No,190223DSP-Dodge-937,190223DSP-Dodge-937-90D,No,,,,,,,,,Error Processing
+Iowa,2018-05-31,No,180531DSP-Iowa-936,180531DSP-Iowa-936-90D,No,,,,,,,,,Error Processing
+Milwaukee,2019-06-22,No,190622DSP-Milw-935,190622DSP-Milw-935-90D,No,,,,,,,,,Error Processing
+Kenosha,2019-06-17,No,190617DSP-Keno-934,190617DSP-Keno-934-90D,No,,,,,,,,,Error Processing
+Milwaukee,2019-06-14,Yes,190614DSP-Milw-933,190614DSP-Milw-933-90D,190614DSP-Milw-933-6M,,,,,,,,,Error Processing
+Polk,2019-06-04,No,190604DSP-Polk-932,190604DSP-Polk-932-90D,No,,,,,,,,,Error Processing
+Milwaukee,2019-06-10,Yes,190610DSP-Milw-931,190610DSP-Milw-931-90D,190610DSP-Milw-931-6M,,,,,,,,,Error Processing
+Milwaukee,2019-06-05,Yes,190605DSP-Milw-930,190605DSP-Milw-930-90D,190605DSP-Milw-930-6M,,,,,,,,,Error Processing
+Monroe,2019-06-05,No,190605DSP-Monro-929,190605DSP-Monro-929-90D,No,,,,,,,,,Error Processing
+Milwaukee,2019-06-05,Yes,190605DSP-Milw-928,190605DSP-Milw-928-90D,190605DSP-Milw-928-6M,,,,,,,,,Error Processing
+Sheboygan,2019-05-31,No,190531DSP-Sheb-927,190531DSP-Sheb-927-90D,No,,,,,,,,,Error Processing
+Walworth,2019-03-21,No,190321DSP-Walw-926,190321DSP-Walw-926-90D,No,,,,,,,,,Error Processing
+Monroe,2019-05-25,Yes,190525DSP-Monro-925,190525DSP-Monro-925-90D,190525DSP-Monro-925-6M,,,,,,,,,No PDF
+Taylor,2019-05-21,No,190521DSP-Tayl-924,190521DSP-Tayl-924-90D,No,,,,,,,,,Error Processing
+Wood,2019-05-23,No,190523DSP-Wood-923,190523DSP-Wood-923-90D,No,,,,,,,,,Error Processing
+Monroe,2019-05-03,No,190503DSP-Monro-922,190503DSP-Monro-922-90D,No,,,,,,,,,Error Processing
+Outagamie,2019-05-02,No,190502DSP-Outag-921,190502DSP-Outag-921-90D,No,,,,,,,,,Error Processing
+Eau Claire,2019-04-26,No,190426DSP-EauCl-920,190426DSP-EauCl-920-90D,No,,,,,,,,,Error Processing
+Manitowoc,2019-04-26,No,190426DSP-Mani-919,190426DSP-Mani-919-90D,No,,,,,,,,,Error Processing
+Milwaukee,2019-04-22,No,190422DSP-Milw-918,190422DSP-Milw-918-90D,No,,,,,,,,,Error Processing
+Outagamie,2019-04-19,No,190419DSP-Outag-917,190419DSP-Outag-917-90D,No,,,,,,,,,Error Processing
+Lafayette,2019-03-23,Yes,190323DSP-Lafay-916,190323DSP-Lafay-916-90D,190323DSP-Lafay-916-6M,,,,,,,,,Error Processing
+Outagamie,2019-04-06,Yes,190406DSP-Outag-915,190406DSP-Outag-915-90D,190406DSP-Outag-915-6M,,,,,,,,,Error Processing
+Wood,2019-04-06,No,190406DSP-Wood-914,190406DSP-Wood-914-90D,No,,,,,,,,,Error Processing
+Winnebago,2019-04-03,No,190403DSP-Winn-913,190403DSP-Winn-913-90D,No,,,,,,,,,Error Processing
+Douglas,2019-03-29,No,190329DSP-Doug-912,190329DSP-Doug-912-90D,No,,,,,,,,,Error Processing
+Kenosha,2019-03-27,No,190327DSP-Keno-911,190327DSP-Keno-911-90D,No,,,,,,,,,Error Processing
+Rock,2019-03-22,No,190322DSP-Rock-910,190322DSP-Rock-910-90D,No,,,,,,,,,Error Processing
+Monroe,2019-03-21,No,190321DSP-Monro-909,190321DSP-Monro-909-90D,No,,,,,,,,,Error Processing
+Eau Claire,2019-03-12,No,190312DSP-EauCl-908,No,No,,,,,,,,,Error Processing
+Milwaukee,2019-03-10,No,190310DSP-Milw-907,190310DSP-Milw-907-90D,No,,,,,,,,,Error Processing
+Dane,2019-03-03,No,190303DSP-Dane-906,190303DSP-Dane-906-90D,No,,,,,,,,,Error Processing
+Racine,2019-02-15,Yes,190215DSP-Racin-905,190215DSP-Racin-905-90D,190215DSP-Racin-905-6M,,,,,,,,,Error Processing
+Racine,2019-02-22,No,190222DSP-Racin-904,190222DSP-Racin-904-90D,No,,,,,,,,,Error Processing
+La Crosse,2019-02-21,Yes,190221DSP-LaCr-903,190221DSP-LaCr-903-90D,190221DSP-LaCr-903-6M,,,,,,,,,Error Processing
+Sauk,2019-02-22,No,190222DSP-Sauk-902,190222DSP-Sauk-902-90D,No,,,,,,,,,Error Processing
+Sauk,2019-02-01,Yes,190201DSP-Sauk-901,190201DSP-Sauk-901-90D,190201DSP-Sauk-901-6M,,,,,,,,,Error Processing
+Rock,2019-02-15,No,190215DSP-Rock-900,190215DSP-Rock-900-90D,No,,,,,,,,,Error Processing
+Oconto,2019-02-15,No,190215DSP-Ocon-899,190215DSP-Ocon-899-90D,No,,,,,,,,,Error Processing
+Juneau,2019-02-12,No,190212DSP-June-898,No,No,,,,,,,,,Error Processing
+Sheboygan,2019-02-08,No,190208DSP-Sheb-897,190208DSP-Sheb-897-90D,No,,,,,,,,,Error Processing
+Rock,2019-02-08,No,190208DSP-Rock-896,190208DSP-Rock-896-90D,190208DSP-Rock-896-6M,,,,,,,,,Error Processing
+Sawyer,2019-02-08,No,190208DSP-Sawyer-895,190208DSP-Sawyer-895-90D,No,,,,,,,,,Error Processing
+Eau Claire,2019-01-27,No,190127DSP-EauCl-894,190127DSP-EauCl-894-90D,No,,,,,,,,,Error Processing
+Winnebago,2018-12-09,No,181209DSP-Winn-893,181209DSP-Winn-893-90D,No,,,,,,,,,Error Processing
+Winnebago,2018-11-30,No,181130DSP-Winn-892,181130DSP-Winn-892-90D,No,,,,,,,,,Error Processing
+Milwaukee,2019-01-22,Yes,190122DSP-Milw-891,190122DSP-Milw-891-90D,190122DSP-Milw-891-6M,,,,,,,,,Error Processing
+Milwaukee,2018-12-19,No,181219DSP-Milw-890,181219DSP-Milw-890-90D,No,,,,,,,,,Error Processing
+Waukesha,2018-12-18,No,181218DSP-Wauk-889,181218DSP-Wauk-889-90D,No,,,,,,,,,Error Processing
+Barron,2018-10-15,No,181015DSP-Barr-888,181015DSP-Barr-888-90D,No,,,,,,,,,Error Processing
+Sheboygan,2018-12-28,Yes,181214DSP-Sheb-887,181214DSP-Sheb-887-90D,181214DSP-Sheb-887-6M,,,,,,,,,Error Processing
+Walworth,2018-12-15,No,181215DSP-Walw-886,181215DSP-Walw-886-90D,No,,,,,,,,,Error Processing
+Fond du Lac,2018-12-18,No,181218DSP-Fond-885,181218DSP-Fond-885-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-12-07,Yes,181207DSP-Milw-884,181207DSP-Milw-884-90D,181207DSP-Milw-884-6M,,,,,,,,,Error Processing
+Milwaukee,2018-12-05,Yes,181205DSP-Milw-883,181205DSP-Milw-883-90D,181205DSP-Milw-883-6M,,,,,,,,,Error Processing
+Milwaukee,2018-12-04,No,181204DSP-Milw-882,181204DSP-Milw-882-90D,No,,,,,,,,,Error Processing
+Trempealeau,2018-12-03,Yes,181203DSP-Tremp-881,181203DSP-Tremp-881-90D,181203DSP-Tremp-881-6M,,,,,,,,,Error Processing
+Trempealeau,2018-11-19,Yes,1811198DSP-Tremp-880,1811198DSP-Tremp-880-90D,1811198DSP-Tremp-880-6M,,,,,,,,,No PDF
+Burnett,2018-11-18,No,181118DSP-Burn-879,181118DSP-Burn-879-90D,No,,,,,,,,,Error Processing
+Winnebago,2018-11-08,Yes,181108DSP-Winn-878,181108DSP-Winn-878-90D,181108DSP-Winn-878-6M,,,,,,,,,Error Processing
+Milwaukee,2018-11-05,Yes,181105DSP-Milw-877,181105DSP-Milw-877-90D,181105DSP-Milw-877-6M,,,,,,,,,Error Processing
+Chippewa,2018-10-30,No,181030DSP-Chipp-876,181030DSP-Chipp-876-90D,No,,,,,,,,,Error Processing
+Fond du Lac,2018-10-15,Yes,181015DSP-Fond-875,181015DSP-Fond-875-90D,181015DSP-Fond-875-6M,,,,,,,,,Error Processing
+Milwaukee,2018-10-21,Yes,181021DSP-Milw-874,181021DSP-Milw-874-90D,181021DSP-Milw-874-6M,,,,,,,,,Error Processing
+Marathon,2018-10-18,No,181018DSP-Mara-873,181018DSP-Mara-873-90D,No,,,,,,,,,Error Processing
+Vernon,2018-10-15,No,181015DSP-Vern-872,181015DSP-Vern-872-90D,No,,,,,,,,,Error Processing
+Wood,2018-10-18,No,181018DSP-Wood-871,181018DSP-Wood-871-90D,No,,,,,,,,,No PDF
+Sheboygan,2018-10-12,Yes,181012DSP-Sheb-870,181012DSP-Sheb-870-90D,181012DSP-Sheb-870-6M,,,,,,,,,Error Processing
+Outamamie,2018-10-15,Yes,181015DSP-Outag-869,181015DSP-Outag-869-90D,181015DSP-Outag-869-6M,,,,,,,,,Error Processing
+Monroe,2018-10-14,No,181014DSP-Monro-868,181014DSP-Monro-868-90D,No,,,,,,,,,Error Processing
+Marathon,2018-08-08,No,180808DSP-Mara-867,180808DSP-Mara-867-90D,No,,,,,,,,,Error Processing
+Juneau,2018-10-01,No,181001DSP-June-866,181001DSP-June-866-90D,No,,,,,,,,,Error Processing
+Shawano,2018-09-28,No,180928DSP-Shawn-865,180928DSP-Shawn-865-90D,No,,,,,,,,,Error Processing
+Monroe,2018-09-30,No,180930DSP-Monro-864,180930DSP-Monro-864-90D,No,,,,,,,,,Error Processing
+Dunn,2018-09-27,Yes,180927-DSP-Dunn-863,180927-DSP-Dunn-863-90D,180927-DSP-Dunn-863-6M,,,,,,,,,No PDF
+Milwaukee,2018-09-13,Yes,180913DSP-Milw-862,180913DSP-Milw-862-90D,180913DSP-Milw-862-6M,,,,,,,,,Error Processing
+Milwaukee,2018-09-20,No,180920DSP-Milw-861,180920DSP-Milw-861-90D,No,,,,,,,,,Error Processing
+Portage,2018-09-18,No,180918DSP-Port-860,180918DSP-Port-860-90D,No,,,,,,,,,Error Processing
+Langlade,2018-09-20,Yes,180920DSP-Lang-859,180920DSP-Lang-859-90D,180920DSP-Lang-859-6M,,,,,,,,,No PDF
+Wood,2018-09-17,Yes,180917DSP-Wood-858,180917DSP-Wood-858-90D,180917DSP-Wood-858-6M,,,,,,,,,Error Processing
+Winnebago,2018-09-15,Yes,180915DSP-Winn-857,180915DSP-Winn-857-90D,180915DSP-Winn-857-6M,,,,,,,,,Error Processing
+Winnebago,2018-09-06,Yes,180906DSP-Winn-856,180906DSP-Winn-856-90D,180906DSP-Winn-856-6M,,,,,,,,,Error Processing
+Sauk,2018-09-02,No,180902DSP-Sauk-855,180902DSP-Sauk-855-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-08-27,Yes,180827DSP-Milw-854,180827DSP-Milw-854-90D,180827DSP-Milw-854-6M,,,,,,,,,Error Processing
+Monroe,2018-08-24,No,180824DSP-Monro-853,180824DSP-Monro-853-90D,No,,,,,,,,,Error Processing
+Winnebago,2018-08-10,No,180810DSP-Winn-852,180810DSP-Winn-852-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-07-16,No,180716DSP-Milw-851,180716DSP-Milw-851-90D,No,,,,,,,,,Error Processing
+Clark,2018-08-17,No,180817DSP-Clark-850,180817DSP-Clark-850-90D,No,,,,,,,,,Error Processing
+Green,2018-08-18,Yes,180818DSP-Green-849,180818DSP-Green-849-90D,180818DSP-Green-849-6M,,,,,,,,,Error Processing
+Milwaukee,2018-08-16,No,180816DSP-Milw-848,180816DSP-Milw-848-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-07-28,No,180728DSP-Milw-847,180728DSP-Milw-847-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-07-12,No,180712DSP-Milw-846,180712DSP-Milw-846-90D,No,,,,,,,,,Error Processing
+Monroe,2018-08-01,No,180801DSP-Monro-845,180801DSP-Monro-845-90D,No,,,,,,,,,Error Processing
+Grant,2018-07-16,Yes,180716DSP-Grant-844,180716DSP-Grant-844-90D,No,,,,,,,,,Error Processing
+Manitowoc,2018-07-28,No,180728DSP-Mani-843,180728DSP-Mani-843-90D,No,,,,,,,,,Error Processing
+Dodge,2018-07-02,No,180702-DSP-Dodge-842,180702-DSP-Dodge-842-90D,No,,,,,,,,,No PDF
+Eau Claire,2018-07-15,No,180715-DSP-EauCl-841,180715-DSP-EauCl-841-90D,No,,,,,,,,,No PDF
+Milwaukee,2018-07-02,No,180702DSP-Milw-840,180702DSP-Milw-840-90D,No,,,,,,,,,Error Processing
+Fond du Lac,2018-06-25,No,180625DSP-Fond-839,180625DSP-Fond-839-90D,No,,,,,,,,,No PDF
+Brown,2018-06-05,Yes,180605DSP-Brown-838,180605DSP-Brown-838-90D,180605DSP-Brown-838-6M,,,,,,,,,Error Processing
+Sheboygan,2018-04-24,No,180424DSP-Sheb-837,180424DSP-Sheb-837-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-05-24,No,180524DSP-Milw-836,180524DSP-Milw-836-90D,No,,,,,,,,,Error Processing
+Columbia,2018-05-20,No,180520DSP-Colum-835,180520DSP-Colum-835-90D,No,,,,,,,,,Error Processing
+Portage,2018-05-17,No,180517DSP-Port-834,180517DSP-Port-834-90D,No,,,,,,,,,Error Processing
+Marinette,2018-05-06,No,180506-DSP-Marin-833,180506-DSP-Marin-833-90D,No,,,,,,,,,No PDF
+Grant,2018-05-04,Yes,180504DSP-Grant-832,180504DSP-Grant-832-90D,180504DSP-Grant-832-6M,,,,,,,,,Error Processing
+Marathon,2018-02-26,No,180226DSP-Mara-831,180226DSP-Mara-831-90D,No,,,,,,,,,Error Processing
+Grant,2018-04-25,No,180425DSP-Grant-830,180329DSP-Grant-830-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-04-25,Yes,180425DSP-Milw-829,180425DSP-Milw-829-90D,180425DSP-Milw-829-6M,,,,,,,,,Error Processing
+Manitowoc,2018-04-20,No,180420DSP-Mani-828,180420DSP-Mani-828-90D,No,,,,,,,,,Error Processing
+Winnebago,2018-04-12,No,180412DSP-Winn-827,180329DSP-Winn-827-90D,No,,,,,,,,,Error Processing
+Polk,2018-04-06,Yes,180406DSP-Polk-826,180406DSP-Polk-826-90D,180406DSP-Polk-826-6M,,,,,,,,,Error Processing
+Columbia,2018-03-31,No,180331DSP-Colum-825,180331DSP-Colum-825-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-04-04,No,180404DSP-Milw-824,180404DSP-Milw-824-90D,No,,,,,,,,,Error Processing
+Dane,2018-04-04,No,180404DSP-Dane-823,180404DSP-Dane-823-90D,No,,,,,,,,,Error Processing
+Waukesha,2018-04-02,Yes,180402DSP-Wauk-822,180402DSP-Wauk-822-90D,180402DSP-Wauk-822-6M,,,,,,,,,Error Processing
+La Crosse,2018-03-29,Yes,180329DSP-LaCr-821,180329DSP-LaCr-821-90D,180329DSP-LaCr-821-6M,,,,,,,,,Error Processing
+Barron,2018-03-23,No,180323DSP-Barr-820,180329DSP-Barr-820-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-03-25,No,180325DSP-Milw-819,180325DSP-Milw-819-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-03-22,No,180322DSP-Milw-818,180322DSP-Milw-818-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-03-14,No,180314DSP-Milw-817,180314DSP-Milw-817-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-03-17,No,180317DSP-Milw-816,180317DSP-Milw-816-90D,No,,,,,,,,,Error Processing
+Richland,2018-03-14,No,180314DSP-Rich-815,180314DSP-Rich-815-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-03-13,No,180310DSP-Milw-814,180310DSP-Milw-814-90D,No,,,,,,,,,Error Processing
+Dane,2018-02-26,No,180226DSP-Dane-813,180226DSP-Dane-813-90D,No,,,,,,,,,Error Processing
+Barron,2018-02-23,No,180223DSP-Barr-812,180223DSP-Barr-812-90D,No,,,,,,,,,Error Processing
+Marathon,2017-08-04,Yes,170804DSP-Mara-811,170804DSP-Mara-811-90D,170804DSP-Mara-811-6M,,,,,,,,,Error Processing
+Milwaukee,2018-02-18,No,180218DSP-Milw-810,180218DSP-Milw-810-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-02-15,Yes,180215DSP-Milw-809,180215DSP-Milw-809-90D,180215DSP-Milw-809-6M,,,,,,,,,Error Processing
+Fond du Lac,2018-02-06,Yes,180206DSP-Fond-808,180206DSP-Fond-808-90D,180206DSP-Fond-808-6M,,,,,,,,,Error Processing
+Dane,2018-02-13,No,180213DSP-Dane-807,180213DSP-Dane-807-90D,No,,,,,,,,,Error Processing
+Dane,2018-02-08,No,180208DSP-Dane-806,180208DSP-Dane-806-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-02-10,No,180210DSP-Milw-805,180210DSP-Milw-805-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-02-08,No,180208DSP-Milw-804,180208DSP-Milw-804-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-02-07,No,180207DSP-Milw-803,180207DSP-Milw-803-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-02-02,No,180202DSP-Milw-802,180202DSP-Milw-802-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-02-02,Yes,180202DSP-Milw-801,180202DSP-Milw-801-90D,180202DSP-Milw-801-6M,,,,,,,,,Error Processing
+Grant,2018-01-25,No,180125DSP-Grant-800,180125DSP-Grant-800-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-01-18,No,180118DSP-Milw-799,180118DSP-Milw-799-90D,No,,,,,,,,,Error Processing
+Manitowic,2018-01-17,No,180117DSP-Mani-798,180117DSP-Mani-798-90D,No,,,,,,,,,Error Processing
+Milwaukee,2018-01-11,No,180111DSP-Milw-797,180111DSP-Milw-797-90D,No,,,,,,,,,Error Processing
+Sauk,2018-01-06,Yes,180106DSP-Sauk-796,180106DSP-Sauk-796-90D,180106DSP-Sauk-796-6M,,,,,,,,,Error Processing
+Marathon,2017-12-20,Yes,171220DSP-Mara-795,171220DSP-Mara-795-90D,171220DSP-Mara-795-6M,,,,,,,,,Error Processing
+Brown,2018-01-06,No,180106DSP-Brown-794,180106DSP-Brown-794-90D,No,,,,,,,,,Error Processing
+Green,2017-12-26,No,171226DSP-Green-793,171226DSP-Green-793-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-12-25,No,171225DSP-Milw-792,171225DSP-Milw-792-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-12-15,No,171215DSP-Milw-791,171215DSP-Milw-791-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-12-16,No,171216-DSP-Milw-790,171216-DSP-Milw-790-90D,No,,,,,,,,,No PDF
+Clark,2017-10-30,No,171030DSP-Clar-789,171030DSP-Clar-789-90D,No,,,,,,,,,Error Processing
+Burnett,2017-12-12,No,171212DSP-Burn-788,171212DSP-Burn-788-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-11-23,Yes,171123DSP-Milw-787,171123DSP-Milw-787-90D,171123DSP-Milw-787-6M,,,,,,,,,Error Processing
+Milwaukee,2017-12-01,No,171201DSP-Milw-786,171201DSP-Milw-786-90D,No,,,,,,,,,Error Processing
+Brown,2017-12-04,Yes,171203DSP-Brown-785,171203DSP-Brown-785-90D,171203DSP-Brown-785-6M,,,,,,,,,Error Processing
+Milwaukee,2017-11-29,No,171129DSP-Milw-784,171129DSP-Milw-784-90D,No,,,,,,,,,Error Processing
+Winnebago,2017-11-29,No,171129DSP-Winn-783,171129DSP-Winn-783-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-11-20,No,171120DSP-Milw-782,171120DSP-Milw-782-90D,No,,,,,,,,,Error Processing
+Brown,2017-11-14,No,171114DSP-Brown-781,171114DSP-Brown-781-90D,No,,,,,,,,,Error Processing
+Dane,2017-11-09,Yes,171109DSP-Dane-780,171109DSP-Dane-780-90D,171109DSP-Dane-780-6M,,,,,,,,,Error Processing
+Milwaukee,2017-11-02,No,171102DSP-Milw-779,171102DSP-Milw-779-90D,No,,,,,,,,,Error Processing
+Ashland,2017-11-04,No,171104DSP-Ashl-778,171104DSP-Ashl-778-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-10-29,Yes,171029DSP-Milw-777,171029DSP-Milw-777-90D,170604DSP-Milw-777-6M,,,,,,,,,Error Processing
+Waukesha,2017-08-25,No,170825DSP-Wauk-776,170825DSP-Wauk-776-90D,No,,,,,,,,,Error Processing
+Sheboygan,2017-10-16,No,171016DSP-Sheb-775,171016DSP-Sheb-775-90D,No,,,,,,,,,Error Processing
+Eau Claire,2017-10-18,Yes,171018DSP-EauCl-774,171018DSP-EauCl-774-90D,171018DSP-EauCl-774-6M,,,,,,,,,Error Processing
+Bayfield,2017-10-10,No,171010DSP-Bayf-773,171010DSP-Bayf-773-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-09-24,No,170924DSP-Milw-772,170924DSP-Milw-772-90D,No,,,,,,,,,Error Processing
+Jackson,2017-10-14,Yes,171014DSP-Jack-771,171014DSP-Jack-771-90D,171014DSP-Jack-771-6M,,,,,,,,,Error Processing
+Saint Croix,2017-08-11,No,170811DSP-StCro-770,170811DSP-StCro-770-90D,No,,,,,,,,,Error Processing
+Portage,2017-10-06,Yes,171006DSP-Port-769,171006DSP-Port-769-90D,171006DSP-Port-769-6M,,,,,,,,,Error Processing
+Polk,2017-10-02,Yes,171002DSP-Polk-768,171002DSP-Polk-768-90D,171002DSP-Polk-768-6M,,,,,,,,,Error Processing
+Milwaukee,2017-10-02,No,171002DSP-Milw-767,171002DSP-Milw-767-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-09-28,No,170928DSP-Milw-766,170928DSP-Milw-766-90D,No,,,,,,,,,Error Processing
+Sauk,2017-09-20,No,170920DSP-Sauk-765,170920DSP-Sauk-765-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-09-24,No,170924DSP-Milw-764,170924DSP-Milw-764-90D,No,,,,,,,,,Error Processing
+Bayfield,2017-09-15,No,170915DSP-Bayf-763,170915DSP-Bayf-763-90D,No,,,,,,,,,Error Processing
+Portage,2017-08-16,Yes,170816DSP-Port-762,170816DSP-Port-762-90D,170816DSP-Port-762-6M,,,,,,,,,Error Processing
+Milwaukee,2017-07-16,No,170916DSP-Milw-761,170916DSP-Milw-761-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-07-16,No,170916DSP-Milw-760,170916DSP-Milw-760-90D,No,,,,,,,,,Error Processing
+La Crosse,2017-07-09,Yes,170709DSP-LaCr-759,170709DSP-LaCr-759-90D,170709DSP-LaCr-759-6M,,,,,,,,,Error Processing
+Green Lake,2017-09-11,No,170911DSP-GrnLk-758,170911DSP-GrnLk-758-90D,No,,,,,,,,,Error Processing
+Racine,2017-09-06,No,170906DSP-Racin-757,170906DSP-Racin-757-90D,No,,,,,,,,,Error Processing
+La Crosse,2017-09-11,No,170911DSP-LaCr-756,170911DSP-LaCr-756-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-09-02,Yes,170902DSP-Milw-755,170902DSP-Milw-755-90D,170902DSP-Milw-755-6M,,,,,,,,,Error Processing
+Forest,2017-08-29,No,170829DSP-Fore-754,170829DSP-Fore-754-90D,No,,,,,,,,,Error Processing
+Rusk,2017-08-28,No,170828DSP-Rusk-753,170828DSP-Rusk-753-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-08-22,No,170822DSP-Milw-752,170822DSP-Milw-752-90D,No,,,,,,,,,Error Processing
+Marquette,2017-08-27,No,170827DSP-Marq-751,170827DSP-Marq-751-90D,No,,,,,,,,,Error Processing
+Dane,2017-08-24,No,170824DSP-Dane-750,170824DSP-Dane-750-90D,No,,,,,,,,,Error Processing
+Wood,2017-08-25,Yes,170825DSP-Wood-749,170825DSP-Wood-749-90D,170825DSP-Wood-749-6M,,,,,,,,,Error Processing
+Dane,2017-08-16,No,170816DSP-Dane-748,170816DSP-Dane-748-90D,No,,,,,,,,,Error Processing
+Wood,2017-08-14,Yes,170814DSP-Wood-747,170814DSP-Wood-747-90D,170814DSP-Wood-747-6M,,,,,,,,,Error Processing
+Milwaukee,2017-07-13,No,170713DSP-Milw-746,170713DSP-Milw-746-90D,No,,,,,,,,,Error Processing
+La Crosse,2017-08-10,No,170810DSP-Lacr-745,170810DSP-Lacr-745-90D,No,,,,,,,,,Error Processing
+Sauk,2017-08-08,No,170808DSP-Sauk-744,170808DSP-Sauk-744-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-08-01,Yes,170801DSP-Milw-743,170801DSP-Milw-743-90D,170604DSP-Milw-743-6M,,,,,,,,,Error Processing
+Winnebago,2017-06-30,No,170630DSP-Winn-742,170630DSP-Winn-742-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-07-15,Yes,170715DSP-Milw-741,170715DSP-Milw-741-90D,170715DSP-Milw-741-6M,,,,,,,,,Error Processing
+Racine,2017-07-12,No,170712DSP-Racin-740,170712DSP-Racin-740-90D,No,,,,,,,,,Error Processing
+Barron,2017-07-09,No,170709DSP-Barr-739,170709DSP-Barr-739-90D,No,,,,,,,,,Error Processing
+Columbia,2017-07-09,No,170709DSP-Colum-738,170709DSP-Colum-738-90D,No,,,,,,,,,No PDF
+Clark,2017-07-06,No,170706DSP-Clar-737,170706DSP-Clar-737-90D,No,,,,,,,,,Error Processing
+Manitowoc,2017-06-28,Yes,170628DSP-Mani-736,170628DSP-Mani-736-90D,170628DSP-Mani-736-6M,,,,,,,,,Error Processing
+Milwaukee,2017-06-27,No,170627DSP-Milw-735,170627DSP-Milw-735-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-06-24,No,170624DSP-Milw-734,170624DSP-Milw-734-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-06-04,Yes,170604DSP-Milw-733,170604DSP-Milw-733-90D,170604DSP-Milw-733-6M,,,,,,,,,Error Processing
+Taylor,2017-06-17,No,170617DSP-Tayl-732,170617DSP-Tayl-732-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-06-15,Yes,170615DSP-Milw-731,170615DSP-Milw-731-90D,170615DSP-Milw-731-6M,,,,,,,,,Error Processing
+Winnebago,2017-06-08,No,170608DSP-Winn-730,170608DSP-Winn-730-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-06-10,No,170610DSP-Milw-729,170610DSP-Milw-729-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-06-02,Yes,170602DSP-Milw-728,170602DSP-Milw-728-90D,170602DSP-Milw-728-6M,,,,,,,,,Error Processing
+Outagamie,2017-06-06,No,170606DSP-Outag-727,170606DSP-Outag-727-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-06-04,No,170604DSP-Milw-726,170604DSP-Milw-726-90D,No,,,,,,,,,Error Processing
+Brown,2017-05-19,No,170519DSP-Brown-725,170519DSP-Brown-725-90D,No,,,,,,,,,Error Processing
+Outagamie,2017-05-29,No,170529DSP-Outag-724,170529DSP-Outag-724-90D,No,,,,,,,,,Error Processing
+Brown,2017-05-25,No,170525DSP-Brown-723,170525DSP-Brown-723-90D,No,,,,,,,,,Error Processing
+Brown,2017-05-21,Yes,170521DSP-Brown-722,170521DSP-Brown-722-90D,170521DSP-Brown-722-6M,,,,,,,,,Error Processing
+Clark,2017-05-15,No,170515DSP-Clar-721,170515DSP-Clar-721-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-05-12,No,170512DSP-Milw-720,170512DSP-Milw-720-90D,No,,,,,,,,,Error Processing
+Washburn,2017-05-04,No,170504DSP-Wshb-719,170504DSP-Wshb-719-90D,No,,,,,,,,,Error Processing
+Dane,2017-04-28,No,170428DSP-Dane-718,170428DSP-Dane-718-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-04-24,No,170424DSP-Milw-717,170424DSP-Milw-717-90D,No,,,,,,,,,Error Processing
+Racine,2017-04-23,No,170423DSP-Racin-716,170423DSP-Racin-716-90D,No,,,,,,,,,Error Processing
+Forest,2017-03-17,No,170317DSP-Fore-715,170317DSP-Fore-715-90D,No,,,,,,,,,Error Processing
+Douglas,2017-04-20,No,170420DSP-Doug-714,170420DSP-Doug-714-90D,No,,,,,,,,,Error Processing
+Sheboygan,2017-04-15,No,170415DSP-Sheb-713,170415DSP-Sheb-713-90D,No,,,,,,,,,Error Processing
+Racine,2017-04-11,No,170411DSP-Racin-712,170411DSP-Racin-712-90D,No,,,,,,,,,Error Processing
+Oneida,2017-04-14,No,170414DSP-Onei-711,170414DSP-Onei-711-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-04-14,No,170414DSP-Milw-710,170414DSP-Milw-710-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-04-10,No,170410DSP-Milw-709,170410DSP-Milw-709-90D,No,,,,,,,,,Error Processing
+Kenosha,2017-04-11,No,170411DSP-Keno-708,170411DSP-Keno-708-90D,No,,,,,,,,,Error Processing
+Outagamie,2017-04-06,No,170406DSP-Outag-707,170406DSP-Outag-707-90D,No,,,,,,,,,Error Processing
+Columbia,2017-04-04,Yes,170404DSP-Colum-706,170404DSP-Colum-706-90D,170404DSP-Colum-706-6M,,,,,,,,,Error Processing
+Trempealeau,2017-04-09,Yes,170409DSP-Tremp-705,170409DSP-Tremp-705-90D,170409DSP-Tremp-705-6M,,,,,,,,,Error Processing
+Milwaukee,2017-04-04,No,170404DSP-Milw-704,170404DSP-Milw-704-90D,No,,,,,,,,,Error Processing
+Dodge,2017-04-02,No,170402DSP-Dodge-703,170402DSP-Dodge-703-90D,No,,,,,,,,,Error Processing
+Dane,2016-12-25,No,161225DSP-Dane-702,161225DSP-Dane-702-90D,No,,,,,,,,,Error Processing
+Jefferson,2016-08-18,Yes,160818DSP-Jeff-701,160818DSP-Jeff-701-90D,160818DSP-Jeff-701-6M,,,,,,,,,Error Processing
+Lincoln,2017-03-15,No,170315DSP-Linc-700,170315DSP-Linc-700-90D,No,,,,,,,,,Error Processing
+Rock,2017-03-20,Yes,170320DSP-Rock-699,170320DSP-Rock-699-90D,170604DSP-Rock-699-6M,,,,,,,,,Error Processing
+Kenosha,2017-03-18,No,170318DSP-Keno-698,170318DSP-Keno-698-90D,No,,,,,,,,,Error Processing
+Kenosha,2017-03-15,Yes,170315DSP-Keno-697,170315DSP-Keno-697-90D,170315DSP-Keno-697-6M,,,,,,,,,Error Processing
+Kenosha,2017-03-16,No,170316DSP-Keno-696,170316DSP-Keno-696-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-03-13,Yes,170313DSP-Milw-695,170313DSP-Milw-695-90D,170313DSP-Milw-695-6M,,,,,,,,,Error Processing
+Pierce,2017-03-08,No,170308DSP-Pier-694,170308DSP-Pier-694-90D,No,,,,,,,,,Error Processing
+Forest,2017-03-07,Yes,170307DSP-Fore-693,170307DSP-Fore-693-90D,170307DSP-Fore-693-6M,,,,,,,,,Error Processing
+Winnebago,2017-03-03,No,170303DSP-Winn-692,170303DSP-Winn-692-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-03-01,No,170301DSP-Milw-691,170301DSP-Milw-691-90D,No,,,,,,,,,Error Processing
+Brown,2017-03-03,No,170303DSP-Brown-690,170303DSP-Brown-690-90D,No,,,,,,,,,Error Processing
+Marathon,2017-03-01,No,170301DSP-Mara-689,170301DSP-Mara-689-90D,No,,,,,,,,,Error Processing
+Wood,2017-02-28,Yes,170228DSP-Wood-688,170228DSP-Wood-688-90D,170228DSP-Wood-688-6M,,,,,,,,,Error Processing
+Milwaukee,2017-02-16,No,170216DSP-Milw-687,170216DSP-Milw-687-90D,No,,,,,,,,,Error Processing
+Dane,2017-02-15,No,170215DSP-Dane-686,170215DSP-Dane-686-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-02-12,No,170212DSP-Milw-685,170212DSP-Milw-685-90D,No,,,,,,,,,Error Processing
+Oconto,2017-02-12,No,170212DSP-Ocon-684,170212DSP-Ocon-684-90D,No,,,,,,,,,Error Processing
+Dodge,2017-02-09,No,170201DSP-Dodge-683,170201DSP-Dodge-683-90D,No,,,,,,,,,Error Processing
+Wood,2017-02-04,Yes,170204DSP-Wood-682,170204DSP-Wood-682-90D,170204DSP-Wood-682-6M,,,,,,,,,Error Processing
+Marathon,2017-02-02,No,170202DSP-Mara-681,170202DSP-Mara-681-90D,No,,,,,,,,,Error Processing
+Rock,2017-01-27,No,170127DSP-Rock-680,1701274DSP-Rock-680-90D,No,,,,,,,,,Error Processing
+Marathon,2017-01-24,No,170124DSP-Mara-679,170124DSP-Mara-679-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-01-26,Yes,170126DSP-Milw-678,170126DSP-Milw-678-90D,170126DSP-Milw-678-6M,,,,,,,,,Error Processing
+Portage,2017-01-22,No,170122DSP-Port-677,170122DSP-Port-677-90D,No,,,,,,,,,Error Processing
+Winnebago,2017-01-10,No,170110DSP-Winn-676,170110DSP-Winn-676-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-01-14,No,170114DSP-Milw-675,170114-DSP-Milw-675-90D,No,,,,,,,,,Error Processing
+Milwaukee,2017-01-13,Yes,170110DSP-Milw-674,170110DSP-Milw-674-90D,170110DSP-Milw-674-6M,,,,,,,,,Error Processing
+Jackson,2016-12-28,No,161228DSP-Jack-673,161228DSP-Jack-673-90D,No,,,,,,,,,Error Processing
+Dodge,2016-12-26,No,161226DSP-Dodge-672,161226DSP-Dodge-672-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-12-10,Yes,161210DSP-Milw-671,161210DSP-Milw-671-90D,161210DSP-Milw-671-6M,,,,,,,,,Error Processing
+Oneida,2016-12-03,No,161203DSP-Onei-670,161203DSP-Onei-670-90D,No,,,,,,,,,Error Processing
+Marathon,2016-12-06,No,161206DSP-Mara-669,161206DSP-Mara-669-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-11-29,No,161129DSP-Milw-668,161129DSP-Milw-668-90D,No,,,,,,,,,Error Processing
+Monroe,2016-11-28,No,161128DSP-Monro-667,161128DSP-Monro-667-90D,No,,,,,,,,,Error Processing
+Calumet,2016-11-27,Yes,161127DSP-Calu-666,161127DSP-Calu-666-90D,161127DSP-Calu-666-6M,,,,,,,,,Error Processing
+Milwaukee,2016-11-23,No,161123-DSP-Milw-665,161123DSP-Milw-665-90D,161123DSP-Milw-665-6M,,,,,,,,,Error Processing
+Manitowoc,2016-10-09,No,161009DSP-Mani-664,161009DSP-Mani-664-90D,No,,,,,,,,,Error Processing
+Dodge,2016-11-14,No,161114DSP-Dodge-663,161114DSP-Dodge-663-90D,No,,,,,,,,,No PDF
+Milwaukee,2016-11-11,No,161111DSP-Milw-662,161111DSP-Milw-662-90D,No,,,,,,,,,Error Processing
+Trempealeau,2016-11-12,Yes,161112DSP-Tremp-661,161112DSP-Tremp-661-90D,161112DSP-Tremp-661-6M,,,,,,,,,Error Processing
+Langlade,2016-11-15,No,161110DSP-Lang-660,161110DSP-Lang-660-90D,No,,,,,,,,,Error Processing
+Dodge,2016-11-08,Yes,161108DSP-Dodge-659,161108DSP-Dodge-659-90D,161108DSP-Dodge-659-6M,,,,,,,,,Error Processing
+Milwaukee,2016-10-30,No,161030DSP-Milw-658,161030DSP-Milw-658-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-10-30,No,161030DSP-Milw-657,161030DSP-Milw-657-90D,161030DSP-Milw-657-6M,,,,,,,,,Error Processing
+Milwaukee,2016-10-25,No,161025DSP-Milw-656,161025DSP-Milw-656-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-10-16,No,161016DSP-Milw-655,161016DSP-Milw-655-90D,161016DSP-Milw-655-6M,,,,,,,,,Error Processing
+Sawyer,2016-10-06,No,161006DSP-Sawyer-654,161006DSP-Sawyer-654-90D,No,,,,,,,,,Error Processing
+Kenosha,2016-10-09,No,161009DSP-Keno-653,161009DSP-Keno-653-90D,No,,,,,,,,,Error Processing
+Rock,2016-10-04,No,161004DSP-Rock-652,161004DSP-Rock-652-90D,161004DSP-Rock-652-6M,,,,,,,,,Error Processing
+Rock,2016-10-02,No,161002DSP-Rock-651,161002DSP-Rock-651-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-09-30,No,160930DSP-Milw-650,160930DSP-Milw-650-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-10-01,No,161001DSP-Milw-649,161001DSP-Milw-649-90D,161001DSP-Milw-649-6M,,,,,,,,,Error Processing
+Milwaukee,2016-09-23,No,160923DSP-Milw-648,160923DSP-Milw-648-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-09-14,No,160914DSP-Milw-647,160914DSP-Milw-647-90D,160914DSP-Milw-647-6M,,,,,,,,,Error Processing
+Fond du Lac,2016-09-15,No,160915DSP-Fond-646,160915DSP-Fond-646-90D,No,,,,,,,,,Error Processing
+Portage,2016-09-07,No,160907DSP-Port-645,160907DSP-Port-645-90D,160907DSP-Port-645-6M,,,,,,,,,Error Processing
+Lincoln,2016-09-05,No,160905DSP-Linc-644,160905DSP-Linc-644-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-08-13,No,160813DSP-Milw-643,160813DSP-Milw-643-90D,No,,,,,,,,,Error Processing
+Chippewa,2016-08-18,No,160818DSP-Chipp-642,160818DSP-Chipp-642-90D,160818DSP-Chipp-642-6M,,,,,,,,,Error Processing
+Rock,2016-08-16,No,160816DSP-Rock-641,160816DSP-Rock-641-90D,No,,,,,,,,,Error Processing
+Walworth,2016-08-09,No,160809DSP-Walw-640,160809DSP-Walw-640-90D,No,,,,,,,,,Error Processing
+Marinette,2016-08-08,No,160808DSP-Marin-639,160808DSP-Marin-639-90D,No,,,,,,,,,Error Processing
+Dane,2016-08-09,No,160809DSP-Dane-638,160809DSP-Dane-638-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-07-30,No,160730DSP-Milw-637,160730DSP-Milw-637-90D,No,,,,,,,,,Error Processing
+Rock,2016-07-28,No,160728DSP-Rock-636,160728DSP-Rock-636-90D,No,,,,,,,,,Error Processing
+Winnebago,2016-07-24,No,160724DSP-Winn-635,160724DSP-Winn-635-90D,No,,,,,,,,,Error Processing
+Pierce,2016-07-03,No,160703DSP-Pier-634,160703DSP-Pier-634-90D,No,,,,,,,,,Error Processing
+Sauk,2016-07-14,No,160714DSP-Sauk-633,160714DSP-Sauk-633-90D,No,,,,,,,,,Error Processing
+La Crosse,2016-06-28,No,160628DSP-Lacr-632,160628DSP-Lacr-632-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-06-27,No,160617DSP-Milw-631,160617DSP-Milw-631-90D,No,,,,,,,,,Error Processing
+Grant,2016-07-08,No,160708DSP-Grant-630,160708DSP-Grant-630-90D,No,,,,,,,,,Error Processing
+Marathon,2016-06-05,No,160605DSP-Mara-629,160605DSP-Mara-629-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-06-01,No,160601DSP-Milw-628,160601DSP-Milw-628-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-05-30,No,160530DSP-Milw-627,160530DSP-Milw-627-90D,160530DSP-Milw-627-6M,,,,,,,,,Error Processing
+La Crosse,2016-05-21,No,160521DSP-Lacr-626,160521DSP-Lacr-626-90D,160521DSP-Lacr-626-6M,,,,,,,,,Error Processing
+Lincoln,2016-05-22,No,160522DSP-Linc-625,160522DSP-Linc-625-90D,No,,,,,,,,,Error Processing
+Marathon,2015-08-20,No,150820DSP-Mara-624,150820DSP-Mara-624-90D,No,,,,,,,,,No PDF
+Wood,2016-05-12,No,160512DSP-Wood-623,160512DSP-Wood-623-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-05-01,No,160501DSP-Milw-622,160501DSP-Milw-622-90D,No,,,,,,,,,No PDF
+Waukesha,2016-05-03,No,160503DSP-Wauk-621,160504DSP-Wauk-621-90D,No,,,,,,,,,Error Processing
+Adams,2016-04-29,No,160429DSP-Adams-620,160429DSP-Adams-620-90D,No,,,,,,,,,Error Processing
+Dane,2016-04-30,No,160430DSP-Dane-619,160430DSP-Dane-619-90D,No,,,,,,,,,Error Processing
+Sauk,2016-04-25,No,160425DSP-Sauk-618,160425DSP-Sauk-618-90D,No,,,,,,,,,Error Processing
+Dane,2016-04-12,No,160412DSP-Dane-617,160412DSP-Dane-617-90D,No,,,,,,,,,Error Processing
+Wood,2016-02-10,No,160210DSP-Wood-616,160210DSP-Wood-616-90D,No,,,,,,,,,Error Processing
+Winnebago,2016-04-04,No,160404DSP-Winn-615,160404DSP-Winn-615-90D,No,,,,,,,,,Error Processing
+Brown,2016-03-31,No,160331DSP-Brown-614,160331DSP-Brown-614-90D,No,,,,,,,,,Error Processing
+Brown,2016-03-28,No,160328DSP-Brown-613,160328DSP-Brown-613-90D,No,,,,,,,,,Error Processing
+Douglas,2016-03-20,No,160320DSP-Doug-612,160320DSP-Doug-612-90D,160320DSP-Doug-612-6M,,,,,,,,,Error Processing
+Trempealeau,2016-03-16,No,160316DSP-Tremp-611,160316DSP-Tremp-611-90D,No,,,,,,,,,Error Processing
+Jefferson,2016-03-14,No,160314DSP-Jeff-610,160314DSP-Jeff-610-90D,No,,,,,,,,,Error Processing
+Winnebago,2016-03-07,No,160307-DSP-Winn-609,160307DSP-Winn-609-90D,160307DSP-Winn-609-6M,,,,,,,,,Error Processing
+Sheboygan,2016-03-04,No,160304DSP-Sheb-608,160304DSP-Sheb-608-90D,No,,,,,,,,,Error Processing
+Dane,2016-03-04,No,160304DSP-Dane-607,160304DSP-Dane-607-90D,160304DSP-Dane-607-6M,,,,,,,,,Error Processing
+Rock,2016-02-17,No,160227DSP-Rock-606,160227DSP-Rock-606-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-02-16,No,160216DSP-Milw-605,160216DSP-Milw-605-90D,No,,,,,,,,,Error Processing
+Columbia,2016-02-05,No,160205DSP-Colum-604,160205DSP-Colum-604-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-02-10,No,160210DSP-Milw-603,160210DSP-Milw-603-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-02-27,No,160227DSP-Milw-602,160227DSP-Milw-602-90D,160227DSP-Milw-602-6M,,,,,,,,,Error Processing
+Rock,2016-02-10,No,160210DSP-Rock-601,160210DSP-Rock-601-90D,No,,,,,,,,,Error Processing
+Kenosha,2016-02-17,No,160217DSP-Keno-600,160217DSP-Keno-600-90D,160217DSP-Keno-600-6M,,,,,,,,,Error Processing
+Kenosha,2016-02-11,No,160211DSP-Keno-599,160211DSP-Keno-599-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-02-09,No,160209DSP-Milw-598,160209DSP-Milw-598-90D,No,,,,,,,,,Error Processing
+Burnett,2016-02-01,No,160201DSP-Burn-597,160201DSP-Burn-597-90D,No,,,,,,,,,Error Processing
+Kenosha,2016-02-03,No,160203DSP-Keno-596,160203DSP-Keno-596-90D,No,,,,,,,,,Error Processing
+Kenosha,2016-02-02,No,160202DSP-Keno-595,160202DSP-Keno-595-90D,No,,,,,,,,,Error Processing
+Winnebago,2016-01-30,No,160130DSP-Winn-594,160130DSP-Winn-594-90D,No,,,,,,,,,Error Processing
+La Crosse,2016-01-08,No,160108DSP-Lacr-593,160108DSP-Lacr-593-90D,160108DSP-Lacr-593-6M,,,,,,,,,Error Processing
+Winnebago,2016-07-05,No,150705DSP-Winn-592,150705DSP-Winn-592-90D,150705DSP-Winn-592-6M,,,,,,,,,No PDF
+Manitowoc,2016-01-23,No,160123DSP-Mani-591,160423DSP-Mani-591-90D,No,,,,,,,,,Error Processing
+Outagamie,2016-01-10,No,160110DSP-Outag-590,160110DSP-Outag-590-90D,No,,,,,,,,,Error Processing
+Fond du Lac,2016-01-14,No,160114DSP-Fond-589,160114DSP-Fond-589-90D,160114DSP-Fond-589-6M,,,,,,,,,Error Processing
+Dane,2016-01-18,No,160118DSP-Dane-588,160118DSP-Dane-588-90D,No,,,,,,,,,Error Processing
+Milwaukee,2016-01-13,No,160113DSP-Milw-587,160113DSP-Milw-587-90D,No,,,,,,,,,Error Processing
+Buffalo,2015-12-25,No,151225DSP-Buff-586,151230DSP-Buff-586-90D,No,,,,,,,,,No PDF
+Milwaukee,2016-01-01,No,160101DSP-Milw-585,160102DSP-Milw-585-90D,No,,,,,,,,,Error Processing
+Adams,2015-12-14,No,151214DSP-Adams-584,151214DSP-Adams-584-90D,No,,,,,,,,,No PDF
+Winnebago,2015-11-24,No,151124DSP-Winn-583,151124DSP-Winn-583-90D,151124DSP-Winn-583-6M,,,,,,,,,No PDF
+Vilas,2015-11-20,No,151120DSP-Vilas-582,151120DSP-Vilas-582-90D,No,,,,,,,,,No PDF
+Fond du Lac,2015-12-01,No,151201DSP-Fond-581,151201DSP-Fond-581-90D,No,,,,,,,,,No PDF
+Dane,2015-10-30,No,151030DSP-Dane-580,151030DSP-Dane-580-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-11-25,No,151125DSP-Milw-579,151125DSP-Milw-579-90D,No,,,,,,,,,No PDF
+Marathon,2015-11-16,No,151116DSP-Mara-578,151116DSP-Mara-578-90,No,,,,,,,,,No PDF
+Milwaukee,2015-11-06,No,151106DSP-Milw-577,151106DSP-Milw-577-90D,No,,,,,,,,,No PDF
+Monroe,2015-11-05,No,151105DSP-Monro-576,151105DSP-Monro-576-90D,No,,,,,,,,,No PDF
+Brown,2015-10-28,No,151028DSP-Brown-575,151028DSP-Brown-575-90D,No,,,,,,,,,No PDF
+Jefferson,2015-10-22,No,151022DSP-Jeff-574,151022DSP-Jeff-574-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-10-28,No,151028DSP-Milw-573,151027DSP-Milw-573-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-10-25,No,151025DSP-Milw-572,151025DSP-Milw-572-90D,151025DSP-Milw-572-6M,,,,,,,,,No PDF
+Milwaukee,2015-10-20,No,151020DSP-Milw-571,151020DSP-Milw-571-90D,No,,,,,,,,,No PDF
+Outagamie,2015-10-20,No,151020DSP-Outag-570,151020DSP-Outag-570-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-10-20,No,151020DSP-Milw-569,151020DSP-Milw-569-90D,No,,,,,,,,,No PDF
+Brown,2015-08-25,No,150825DSP-Brown-568,150825DSP-Brown-568-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-10-20,No,151020DSP-Milw-567,151020DSP-Milw-567-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-10-06,No,151006DSP-Milw-566,151007DSP-Milw-566-90D,No,,,,,,,,,No PDF
+Menominee,2015-10-04,No,151004DSP-Meno-565,151004DSP-Meno-565-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-09-25,No,150925DSP-Milw-564,150925DSP-Milw-564-90D,150925DSP-Milw-564-6M,,,,,,,,,No PDF
+Milwaukee,2015-08-26,No,150826DSP-Milw-563,150826DSP-Milw-563-90D,No,,,,,,,,,No PDF
+Brown,2015-09-13,No,150913DSP-Brown-562,150913DSP-Brown-562-90D,No,,,,,,,,,No PDF
+Kenosha,2015-09-12,No,150912DSP-Keno-561,150912DSP-Keno-561-90D,No,,,,,,,,,No PDF
+Marathon,2015-09-01,No,150901DSP-Mara-560,150901DSP-Mara-560-90D,No,,,,,,,,,No PDF
+Bayfield,2015-08-29,No,150829DSP-Bayf-559,150829DSP-Bayf-559-90D,150829DSP-Bayf-559-6M,,,,,,,,,No PDF
+La Crosse,2015-08-25,No,150825DSP-Lacr-558,150825DSP-Lacr-558-90D,No,,,,,,,,,No PDF
+Outagamie,2015-08-26,No,150826DSP-Outag-557,150826DSP-Outa-557-90D,No,,,,,,,,,No PDF
+Walworth,2015-08-12,No,150812DSP-Walw-556,150812DSP-Walw-556-90D,No,,,,,,,,,No PDF
+La Crosse,2015-08-15,No,150815DSP-Lacr-555,150815DSP-Lacr-555-90D,150815DSP-Lacr-555-6M,,,,,,,,,No PDF
+Brown,2015-07-05,No,150705DSP-Brown-554,150805DSP-Brown-554-90D,No,,,,,,,,,No PDF
+Dane,2015-07-22,No,150722DSP-Dane-552,150722DSP-Dane-552-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-07-20,No,150720DSP-Milw-551,150720DSP-Milw-551-90D,150720DSP-Milw-551-6M,,,,,,,,,No PDF
+Marathon,2015-07-15,No,150715DSP-Mara-550,150715DSP-Mara-550-90D,150715DSP-Mara-550-6M,,,,,,,,,No PDF
+Dane,2015-07-19,No,150719DSP-Dane-549,150719DSP-Dane-549-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-07-15,No,150715DSP-Milw-548,150715DSP-Milw-548-90D,150715DSP-Milw-548-6M,,,,,,,,,No PDF
+Rock,2015-07-10,No,150710DSP-Rock-547,150710DSP-Rock-547-90D,150710DSP-Rock-547-6M,,,,,,,,,No PDF
+Fond du Lac,2015-07-07,No,150707DSP-Fond-546,150707DSP-Fond-546-90D,No,,,,,,,,,No PDF
+Rock,2015-07-05,No,150705DSP-Rock-545,150705DSP-Rock-545-90D,No,,,,,,,,,No PDF
+Marathon,2015-07-02,No,150702DSP-Mara-544,150702DSP-Mara-544-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-07-01,No,150701DSP-Milw-543,150701DSP-Milw-543-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-06-25,No,150625DSP-Milw-542,150625DSP-Milw-542-90D,No,,,,,,,,,No PDF
+Marathon,2015-06-23,No,150623DSP-Mara-541,150623DSP-Mara-541-90D,No,,,,,,,,,No PDF
+Columbia,2015-06-19,No,150619DSP-Colum-540,150619DSP-Colum-540-90D,No,,,,,,,,,No PDF
+Marathon,2015-06-19,No,150619DSP-Mara-539,150619DSP-Mara-539-90D,No,,,,,,,,,No PDF
+Vilas,2015-06-13,No,150613DSP-Vilas-538,150613DSP-Vilas-538-90D,No,,,,,,,,,No PDF
+Outagamie,2015-06-14,No,150614DSP-Outag-537,150614DSP-Outag-537-90D,No,,,,,,,,,No PDF
+Monroe,2015-06-06,No,150606DSP-Monro-536,150606DSP-Monro-536-90D,150606DSP-Monro-536-6M,,,,,,,,,No PDF
+Milwaukee,2015-06-01,No,150601DSP-Milw-535,150601DSP-Milw-535-90D,150601DSP-Milw-535-6M,,,,,,,,,No PDF
+Clark,2015-05-27,No,150527DSP-Clark-534,150527DSP-Clark-534-90D,No,,,,,,,,,No PDF
+Waukesha,2015-05-21,No,150521DSP-Wauk-533,150521DSP-Wauk-533-90D,No,,,,,,,,,No PDF
+Sawyer,2015-05-21,No,150521DSP-Sawyer-532,150521DSP-Sawyer-532-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-04-13,No,150413DSP-Milw-531,150413DSP-Milw-531-90D,No,,,,,,,,,No PDF
+Winnebago,2015-05-10,No,150510DSP-Winn-530,150511DSP-Winn-530-90D,No,,,,,,,,,No PDF
+Dane,2015-04-21,No,150421DSP-Dane-529,150421DSP-Dane-529-90D,No,,,,,,,,,No PDF
+Dane,2015-04-14,No,150414DSP-Dane-528,150414DSP-Dane-528-90D,150414DSP-Dane-528-6M,,,,,,,,,No PDF
+La Crosse,2015-04-18,No,150418DSP-Lacr-527,150418DSP-Lacr-527-90D,150418DSP-Lacr-527-6M,,,,,,,,,No PDF
+Sheboygan,2015-04-17,No,150417DSP-Sheb-526,150417DSP-Sheb-526-90D,No,,,,,,,,,No PDF
+Dane,2015-04-06,No,150406DSP-Dane-525,150408DSP-Dane-525-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-04-02,No,150402DSP-Milw-524,150304DSP-Milw-524-90D,No,,,,,,,,,No PDF
+Waukesha,2015-03-04,No,150304DSP-Wauk-523,150304DSP-Wauk-523-90D,150304DSP-Wauk-523-6M,,,,,,,,,No PDF
+Sheboygan,2015-03-18,No,150318DSP-Sheb-522,150318DSP-Sheb-522-90D,No,,,,,,,,,No PDF
+La Crosse,2015-03-15,No,150315DSP-Lacr-521,150315DSP-Lacr-521-90D,No,,,,,,,,,No PDF
+Kenosha,2015-03-09,No,150309DSP-Keno-520,150309DSP-Keno-520-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-03-18,No,150318DSP-Milw-519,150318DSP-Milw-519-90D,No,,,,,,,,,No PDF
+Monroe,2015-03-09,No,150309DSP-Monro-518,150309DSP-Monro-518-90D,No,,,,,,,,,No PDF
+Winnebago,2013-02-03,No,150203DSP-Winn-517,150307DSP-Winn-517-90D,No,,,,,,,,,No PDF
+Walworth,2014-12-09,No,141209DSP-Walw-516,141209DSP-Walw-516-90D,No,,,,,,,,,No PDF
+Washburn,2015-02-25,No,150225DSP-Wshb-515,150225DSP-Wshb-515-90D,No,,,,,,,,,No PDF
+Dane,2015-02-23,No,150223DSP-Dane-514,150223DSP-Dane-514-90D,No,,,,,,,,,No PDF
+Winnebago,2015-02-03,No,150203DSP-Winn-513,150218DSP-Winn-513-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-02-16,No,150216DSP-Milw-512,150216DSP-Milw-512-90D,150216DSP-Milw-512-6M,,,,,,,,,No PDF
+Monroe,2015-02-17,No,150217DSP-Monro-511,150217DSP-Monro-511-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-02-13,No,150213DSP-Milw-510,150103DSP-Milw-510-90D,No,,,,,,,,,No PDF
+Brown,2015-02-03,No,150203DSP-Brown-509,150203DSP-Brown-509-90D,150203DSP-Brown-509-6M,,,,,,,,,No PDF
+Marinette,2015-02-02,No,150202DSP-Marin-508,150202DSP-Marin-508-90D,No,,,,,,,,,No PDF
+Milwaukee,2015-01-23,No,150123DSP-Milw-507,150123DSP-Milw-507-90D,150123DSP-Milw-507-6M,,,,,,,,,No PDF
+Menominee,2015-01-17,No,150117DSP-Meno-506,150117DSP-Meno-506-90D,150117DSP-Meno-506-6M,,,,,,,,,No PDF
+Milwaukee,2015-01-09,No,150109DSP-Milw-505,150109DSP-Milw-505-90D,No,,,,,,,,,No PDF
+Dane,2015-01-01,No,150101DSP-Dane-504,150101DSP-Dane-504-90D,150101DSP-Dane-504-6M,,,,,,,,,No PDF
+Grant,2015-01-02,No,150102DSP-Grant-503,150102DSP-Grant-503-90D,No,,,,,,,,,No PDF
+Kenosha,2015-01-02,No,150102DSP-Keno-502,150102DSP-Keno-502-90D,No,,,,,,,,,No PDF
+Oconto,2014-12-17,No,141217DSP-Ocon-501,141217DSP-Ocon-501-90D,No,,,,,,,,,No PDF
+Wood,2014-11-08,No,141128DSP-Wood-500,141128DSP-Wood-500-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-11-30,No,141130DSP-Milw-499,141201DSP-Milw-499-90D,No,,,,,,,,,No PDF
+Kenosha,2014-12-01,No,141201DSP-Keno-498,141201DSP-Keno-498-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-11-16,No,141116DSP-Milw-497,141122DSP-Milw-497-90D,No,,,,,,,,,No PDF
+Chippewa,2014-11-13,No,141113DSP-Chipp-496,141113DSP-Chipp-496-90D,No,,,,,,,,,No PDF
+Kenosha,2014-11-18,No,141118DSP-Keno-495,141118DSP-Keno-495-90D,No,,,,,,,,,No PDF
+Wood,2014-10-30,No,141030DSP-Wood-494,141030DSP-Wood-494-90D,141030DSP-Wood-494-6M,,,,,,,,,No PDF
+La Crosse,2014-10-28,No,141028DSP-Lacr-493,141028DSP-Lacr-493-90D,No,,,,,,,,,No PDF
+Rock,2014-10-02,No,141002DSP-Rock-492,141002DSP-Rock-492-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-10-16,No,141016DSP-Milw-491,141016DSP-Milw-491-90D,141016-DSP-Milw-491-6M,,,,,,,,,No PDF
+Manitowoc,2014-10-17,No,141017DSP-Mani-490,141017DSP-Mani-490-90D,No,,,,,,,,,No PDF
+Rock,2014-10-11,No,141011DSP-Rock-489,141011DSP-Rock-489-90D,No,,,,,,,,,No PDF
+Clark,2014-10-08,No,141008DSP-Clark-488,141008DSP-Clark-488-90D,No,,,,,,,,,No PDF
+Fond du Lac,2014-10-10,No,141010DSP-Fond-487,141010DSP-Fond-487-90D,No,,,,,,,,,No PDF
+Waukesha,2014-10-06,No,141006DSP-Wauk-486,141006DSP-Wauk-486-90D,141006DSP-Wauk-486-6M,,,,,,,,,No PDF
+Dane,2014-10-05,No,141005DSP-Dane-485,141005DSP-Dane-485-90D,No,,,,,,,,,No PDF
+Marinette,2014-09-19,No,140919DSP-Marin-484,140919DSP-Marin-484-90D,No,,,,,,,,,No PDF
+Jackson,2014-09-26,No,140926DSP-Jack-483,140926DSP-Jack-483-90D,No,,,,,,,,,No PDF
+Manitowoc,2014-09-22,No,140922DSP-Mani-482,140922DSP-Mani-482-90D,No,,,,,,,,,No PDF
+Oconto,2014-09-22,No,140922DSP-Ocon-481,140922DSP-Ocon-481-90D,No,,,,,,,,,No PDF
+Walworth,2014-08-14,No,140814DSP-Walw-480,140814DSP-Walw-480-90D,No,,,,,,,,,No PDF
+Polk,2014-09-20,No,140920DSP-Polk-479,140920DSP-Polk-479-90D,140920DSP-Polk-479-6M,,,,,,,,,No PDF
+Winnebago,2014-09-18,No,140918DSP-Winn-478,140918DSP-Winn-478-90D,140918DSP-Winn-478-6M,,,,,,,,,No PDF
+Dane,2014-09-19,No,140919DSP-Dane-477,140919DSP-Dane-477-90D,No,,,,,,,,,No PDF
+Sheboygan,2014-08-30,No,140830DSP-Sheb-476,140830DSP-Sheb-476-90D,No,,,,,,,,,No PDF
+Rock,2014-09-06,No,140906DSP-Rock-475,140906DSP-Rock-475-90D,No,,,,,,,,,No PDF
+Winnebago,2014-08-26,No,140826DSP-Winn-474,140826DSP-Winn-474-90D,No,,,,,,,,,No PDF
+Brown,2014-08-27,No,140827DSP-Brown-473,140827DSP-Brown-473-90D,No,,,,,,,,,No PDF
+Ashland,2014-08-24,No,140824DSP-Ashl-472,140824DSP-Ashl-472-90D,140824DSP-Ashl-472-6M,,,,,,,,,No PDF
+Walworth,2014-06-27,No,140627DSP-Walw-471,140627DSP-Walw-471-90D,No,,,,,,,,,No PDF
+Marinette,2014-06-28,No,140628DSP-Marin-470,140628DSP-Marin-470-90D,No,,,,,,,,,No PDF
+Fond du Lac,2014-08-13,No,140813DSP-Fond-469,140813DSP-Fond-469-90D,No,,,,,,,,,No PDF
+Manitowoc,2014-08-13,No,140813DSP-Mani-468,140813DSP-Mani-468-90D,No,,,,,,,,,No PDF
+Brown,2014-08-07,No,140807DSP-Brown-467,140807DSP-Brown-467-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-07-23,No,140723DSP-Milw-466,140723DSP-Milw-466-90D,140723DSP-Milw-466-6M,,,,,,,,,No PDF
+Milwaukee,2014-07-23,No,140723DSP-Milw-465,140723DSP-Milw-465-90D,140723DSP-Milw-465-6M,,,,,,,,,No PDF
+Monroe,2014-08-04,No,140804DSP-Monro-464,140804DSP-Monro-464-90D,No,,,,,,,,,No PDF
+Columbia,2014-07-25,No,140725DSP-Colum-463,140725DSP-Colum-463-90D,No,,,,,,,,,No PDF
+Wood,2014-07-23,No,140723DSP-Wood-462,140723DSP-Wood-462-90D,No,,,,,,,,,No PDF
+Brown,2014-07-12,No,140712DSP-Brown-461,140721DSP-Brown-461-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-07-17,No,140717DSP-Milw-460,140717DSP-Milw-460-90D,No,,,,,,,,,No PDF
+Richland,2014-07-02,No,140702DSP-Rich-459,140702DSP-Rich-459-90D,No,,,,,,,,,No PDF
+Walworth,2014-07-03,No,140703DSP-Walw-458,140703DSP-Walw-458-90D,No,,,,,,,,,No PDF
+Dodge,2014-07-03,No,140703DSP-Dodge-457,140703DSP-Dodge-457-90D,140703DSP-Dodge-457-6M,,,,,,,,,No PDF
+Rock,2014-07-02,No,140702DSP-Rock-456,140702DSP-Rock-456-90D,140702DSP-Rock-456-6M,,,,,,,,,No PDF
+Buffalo,2015-06-14,No,140614DSP-Buff-455,140614DSP-Buff-455-90D,No,,,,,,,,,No PDF
+Brown,2014-06-25,No,140625DSP-Brown-454,140625DSP-Brown-454-90D,No,,,,,,,,,No PDF
+Dodge,2014-06-27,No,140627DSP-Dodge-453,140627DSP-Dodge-453-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-06-26,No,140626DSP-Milw-452,140626DSP-Milw-452-90D,No,,,,,,,,,No PDF
+Brown,2014-06-25,No,140625DSP-Brown-451,140625DSP-Brown-451-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-06-21,No,140621DSP-Milw-450,140621DSP-Milw-450-90D,140621DSP-Milw-450-6M,,,,,,,,,No PDF
+Green Lake,2014-06-13,No,140613DSP-Grnlk-449,140613DSP-Grnlk-449-90D,No,,,,,,,,,No PDF
+Juneau,2014-06-04,No,140604DSP-June-448,140604DSP-June-448-90D,No,,,,,,,,,No PDF
+Brown,2014-06-01,No,140601DSP-Brown-447,140601DSP-Brown-447-90D,No,,,,,,,,,No PDF
+Waupaca,2015-05-24,No,140524DSP-Waup-446,140524DSP-Waup-446-90D,140524DSP-Waup-446-6M,,,,,,,,,No PDF
+Milwaukee,2014-05-21,No,140521DSP-Milw-445,140521DSP-Milw-445-90D,140521DSP-Milw-445-6M,,,,,,,,,No PDF
+Dane,2014-05-17,No,140517DSP-Dane-444,140517DSP-Dane-444-90D,140517DSP-Dane-444-6M,,,,,,,,,No PDF
+Brown,2014-05-10,No,140510DSP-Brown-443,140510DSP-Brown-443-90D,140510DSP-Brown-443-6M,,,,,,,,,No PDF
+Winnebago,2014-05-14,No,140514DSP-Winn-442,140514DSP-Winn-442-90D,140514DSP-Winn-442-6M,,,,,,,,,No PDF
+Rock,2014-05-10,No,140510DSP-Rock-441,140510DSP-Rock-441-90D,No,,,,,,,,,No PDF
+Winnebago,2014-05-01,No,140501DSP-Winn-440,140501DSP-Winn-440-90D,140501DSP-Winn-440-6M,,,,,,,,,No PDF
+Portage,2014-05-03,No,140503DSP-Port-439,140503DSP-Port-439-90D,140503DSP-Port-439-6M,,,,,,,,,No PDF
+Winnebago,2014-04-26,No,140426DSP-Winn-438,140426DSP-Winn-438-90D,No,,,,,,,,,No PDF
+Jefferson,2014-05-02,No,140502DSP-Jeff-437,140502DSP-Jeff-437-90D,140502DSP-Jeff-437-6M,,,,,,,,,No PDF
+Rock,2014-04-24,No,140424DSP-Rock-436,140424DSP-Rock-436-90D,No,,,,,,,,,No PDF
+Vilas,2014-04-24,No,140424DSP-Vilas-435,140424DSP-Vilas-435-90D,No,,,,,,,,,No PDF
+Sheboygan,2014-04-25,No,140425DSP-Sheb-434,140425DSP-Sheb-434-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-03-26,No,140326DSP-Milw-433,140326DSP-Milw-433-90D,No,,,,,,,,,No PDF
+Fond du Lac,2014-04-22,No,140422DSP-Fond-432,140422DSP-Fond-432-90D,140422DSP-Fond-432-6M,,,,,,,,,No PDF
+Saint Croix,2014-04-08,No,140408DSP-Stcro-431,140408DSP-Stcro-431-90D,No,,,,,,,,,No PDF
+Dane,2014-04-05,No,140405DSP-Dane-430,140405DSP-Dane-430-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-03-12,No,140312DSP-Milw-429,140312DSP-Milw-429-90D,No,,,,,,,,,No PDF
+Calumet,2014-03-11,No,140311DSP-Calu-428,140311DSP-Calu-428-90D,No,,,,,,,,,No PDF
+Fond du Lac,2014-03-05,No,140305DSP-Fond-427,140305DSP-Fond-427-90D,140305DSP-Fond-427-6M,,,,,,,,,No PDF
+Forest,2013-07-28,No,130728DSP-Fore-426,130728DSP-Fore-426-90D,130728DSP-Fore-426-6M,,,,,,,,,No PDF
+Forest,2012-12-11,No,121211DSP-Fore-425,121211DSP-Fore-425-90D,121211DSP-Fore-425-6M,,,,,,,,,No PDF
+Jackson,2014-03-10,No,140310DSP-Jack-424,140310DSP-Jack-424-90D,140310DSP-Jack-424-6M,,,,,,,,,No PDF
+Kenosha,2014-03-13,No,140313DSP-Keno-423,140313DSP-Keno-423-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-03-09,No,140309DSP-Milw-422,140309DSP-Milw-422-90D,No,,,,,,,,,No PDF
+Wood,2014-03-05,No,140305DSP-Wood-421,140305DSP-Wood-421-90D,140305DSP-Wood-421-6M,,,,,,,,,No PDF
+Marathon,2014-02-26,No,140226DSP-Mara-420,140226DSP-Mara-420-90D,No,,,,,,,,,No PDF
+Oconto,2014-02-21,No,140221DSP-Ocon-419,140221DSP-Ocon-419-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-12-09,No,131209DSP-Milw-418,131209DSP-Milw-418-90D,No,,,,,,,,,No PDF
+Rock,2013-12-25,No,131225DSP-Rock-417,131225DSP-Rock-417-90D,No,,,,,,,,,No PDF
+Dunn,2014-02-07,No,140207DSP-Dunn-416,140207DSP-Dunn-416-90D,No,,,,,,,,,No PDF
+Dodge,2014-01-20,No,140120DSP-Dodge-415,140120DSP-Dodge-415-90D,No,,,,,,,,,No PDF
+Columbia,2014-01-20,No,140120DSP-Colum-415,140120DSP-Colum-415-90D,140120DSP-Colum-415-6M,,,,,,,,,No PDF
+Chippewa,2014-02-04,No,140204DSP-Chipp-414,140204DSP-Chipp-414-90D,No,,,,,,,,,No PDF
+Kenosha,2014-02-04,No,140204DSP-Keno-413,140204DSP-Keno-413-90D,140204DSP-Keno-413-6M,,,,,,,,,No PDF
+Washington,2014-02-03,No,140203DSP-Wash-412,140203DSP-Wash-412-90D,No,,,,,,,,,No PDF
+Brown,2014-01-21,No,140121DSP-Brown-411,140121DSP-Brown-411-90D,140121DSP-Brown-411-6M,,,,,,,,,No PDF
+Jefferson,2014-01-20,No,140120DSP-Jeff-410,140120DSP-Jeff-410-90D,No,,,,,,,,,No PDF
+Dane,2014-01-19,No,140119DSP-Dane-409,140119DSP-Dane-409-90D,140119DSP-Dane-409-6M,,,,,,,,,No PDF
+Douglas,2014-01-20,No,140120DSP-Doug-408,140120DSP-Doug-408-90D,140120DSP-Doug-408-6M,,,,,,,,,No PDF
+Milwaukee,2014-01-19,No,140119DSP-Milw-407,140119DSP-Milw-407-90D,140119DSP-Milw-407-6M,,,,,,,,,No PDF
+Milwaukee,2014-01-11,No,140111DSP-Milw-406,140111DSP-Milw-406-90D,140111DSP-Milw-406-6M,,,,,,,,,No PDF
+Brown,2014-01-09,No,140109DSP-Brown-405,140109DSP-Brown-405-90D,No,,,,,,,,,No PDF
+Fond du Lac,2014-01-02,No,140102DSP-Fond-404,140102DSP-Fond-404-90D,No,,,,,,,,,No PDF
+Fond du Lac,2014-01-09,No,140109DSP-Fond-403,140109DSP-Fond-403-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-01-05,No,140105DSP-Milw-402,140105DSP-Milw-402-90D,No,,,,,,,,,No PDF
+Dunn,2014-01-03,No,140103DSP-Dunn-401,140103DSP-Dunn-401-90D,No,,,,,,,,,No PDF
+Jefferson,2014-01-02,No,140102DSP-Jeff-400,140102DSP-Jeff-400-90D,No,,,,,,,,,No PDF
+Portage,2014-01-03,No,140103DSP-Port-399,140103DSP-Port-399-90D,No,,,,,,,,,No PDF
+Milwaukee,2014-01-01,No,140101DSP-Milw-398,140101DSP-Milw-398-90D,No,,,,,,,,,No PDF
+Douglas,2013-12-30,No,131230DSP-Doug-397,131230DSP-Doug-397-90D,131230DSP-Doug-397-6M,,,,,,,,,No PDF
+Monroe,2013-12-22,No,131222DSP-Monro-396,131222DSP-Monro-396-90D,No,,,,,,,,,No PDF
+Monroe,2013-12-21,No,131221DSP-Monro-395,131221DSP-Monro-395-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-10-01,No,131001DSP-Milw-394,131001DSP-Milw-394-90D,131001DSP-Milw-394-6M,,,,,,,,,No PDF
+Marinette,2013-11-26,No,131126DSP-Marin-393,131126DSP-Marin-393-90D,131126DSP-Marin-393-6M,,,,,,,,,No PDF
+Monroe,2013-12-17,No,131217DSP-Monro-392,131217DSP-Monro-392-90D,No,,,,,,,,,No PDF
+Monroe,2013-12-12,No,131212DSP-Monro-391,131121DSP-Monro-391-90D,No,,,,,,,,,No PDF
+Rock,2013-12-13,No,131213DSP-Rock-390,131213DSP-Rock-390-90D,131213DSP-Rock-390-6M,,,,,,,,,No PDF
+Rock,2013-10-30,No,131030DSP-Rock-389,131030DSP-Rock-389-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-12-01,No,131201DSP-Milw-388,131201DSP-Milw-388-90D,No,,,,,,,,,No PDF
+Waupaca,2013-12-03,No,131203DSP-Waup-387,131203DSP-Waup-387-90D,131203DSP-Waup-387-6M,,,,,,,,,No PDF
+Milwaukee,2013-11-26,No,131126DSP-Milw-386,131126DSP-Milw-386-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-11-22,No,131122DSP-Milw-385,131122DSP-Milw-385-90D,131122DSP-Milw-385-6M,,,,,,,,,No PDF
+Kenosha,2013-11-13,No,131113DSP-Keno-384,131113DSP-Keno-384-90D,131113DSP-Keno-384-6M,,,,,,,,,No PDF
+Dane,2013-11-09,No,131109DSP-Dane-383,131109DSP-Dane-383-90D,No,,,,,,,,,No PDF
+Ozaukee,2013-11-07,No,131107DSP-Ozauk-382,131113DSP-Ozauk-382-90D,No,,,,,,,,,No PDF
+Sheboygan,2013-10-31,No,131031DSP-Sheb-381,131031DSP-Sheb-381-90D,No,,,,,,,,,No PDF
+Dane,2013-11-02,No,131102DSP-Dane-380,131102DSP-Dane-380-90D,No,,,,,,,,,No PDF
+Rock,2013-10-30,No,131030DSP-Rock-379,131030DSP-Rock-379-90D,No,,,,,,,,,No PDF
+Forest,2013-10-18,No,131018DSP-Fore-378,131018DSP-Fore-378-90D,131018DSP-Fore-378-6M,,,,,,,,,No PDF
+Milwaukee,2013-09-20,No,130920DSP-Milw-377,130920DSP-Milw-377-90D,No,,,,,,,,,No PDF
+Dane,2013-10-22,No,131022DSP-Dane-376,131022DSP-Dane-376-90D,131022DSP-Dane-376-6M,,,,,,,,,No PDF
+Dane,2013-10-22,No,1310201DSP-Dane-375,131021DSP-Dane-375-90D,No,,,,,,,,,No PDF
+Portage,2013-10-05,No,131005DSP-Port-374,131005DSP-Port-374-90D,No,,,,,,,,,No PDF
+Rock,2013-10-04,No,131004DSP-Rock-373,131004DSP-Rock-373-90D,131004DSP-Rock-373-6M,,,,,,,,,No PDF
+Rock,2013-10-01,No,131001DSP-Rock-372,131001DSP-Rock-372-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-10-06,No,131006DSP-Milw-371,131005DSP-Milw-371-90D,No,,,,,,,,,No PDF
+Forest,2013-05-01,No,130501DSP-Fores-370,130501DSP-Fores-370-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-10-02,No,131002DSP-Milw-369,131002DSP-Milw-369-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-09-29,No,130929DSP-Milw-368,130929DSP-Milw-368-90D,No,,,,,,,,,No PDF
+Waukesha,2013-09-25,No,130925DSP-Wauk-367,130925DSP-Wauk-367-90D,No,,,,,,,,,No PDF
+Outagamie,2013-09-24,No,130924DSP-Outag-366,130924DSP-Outag-366-90D,No,,,,,,,,,No PDF
+Burnett,2013-09-06,No,130906DSP-Burn-365,130906DSP-Burn-365-90D,No,,,,,,,,,No PDF
+Fond du Lac,2013-09-07,No,130907DSP-Fond-364,130907DSP-Fond-364-90D,No,,,,,,,,,No PDF
+Green Lake,2013-08-24,No,130824DSP-Grnlk-363,130824DSP-Grnlk-363-90D,No,,,,,,,,,No PDF
+Jackson,2013-08-30,No,130830DSP-Jack-362,130830DSP-Jack-362-90D,No,,,,,,,,,No PDF
+Eau Claire,2013-08-28,No,130828DSP-Eacul-361,130828DSP-Eacul-361-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-08-24,No,130824DSP-Milw-360,130824DSP-Milw-360-90D,No,,,,,,,,,No PDF
+Oconto,2013-07-04,No,120704DSP-Ocon-359,120704DSP-Ocon-359-90D,120704DSP-Ocon-359-6M,,,,,,,,,No PDF
+Marinette,2013-08-02,No,130802DSP-Marin-358,130802DSP-Marin-358-90D,No,,,,,,,,,No PDF
+Marinette,2013-08-02,No,130802DSP-Marin-357,130802DSP-Marin-357-90D,No,,,,,,,,,No PDF
+Dane,2013-05-13,No,130513DSP-Dane-356,130503DSP-Dane-356-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-08-13,No,130813DSP-Milw-355,130813DSP-Milw-355-90D,No,,,,,,,,,No PDF
+Kenosha,2013-08-09,No,130809DSP-Keno-354,130809DSP-Keno-354-90D,130809DSP-Keno-354-6M,,,,,,,,,No PDF
+Eau Claire,2013-08-06,No,130806DSP-Eacul-353,130806DSP-Eacul-353-90D,No,,,,,,,,,No PDF
+Oneida,2013-07-27,No,130727DSP-Onei-352,130727DSP-Onei-352-90D,130727DSP-Onei-352-6M,,,,,,,,,No PDF
+Milwaukee,2013-07-24,No,130724DSP-Milw-351,130724DSP-Milw-351-90D,No,,,,,,,,,No PDF
+Kenosha,2013-08-02,No,130802DSP-Keno-350,130802DSP-Keno-350-90D,130802DSP-Keno-350-6M,,,,,,,,,No PDF
+Jackson,2013-07-30,No,130730DSP-Jack-349,130730DSP-Jack-349-90D,140613DSP-Grnlk-449-6M,,,,,,,,,No PDF
+Milwaukee,2013-07-24,No,130724DSP-Milw-348,130724DSP-Milw-348-90D,No,,,,,,,,,No PDF
+milwaukee,2013-07-18,No,130718DSP-Milw-347,130718DSP-Milw-347-90D,No,,,,,,,,,No PDF
+Columbia,2013-07-15,No,130715DSP-Colum-346,130715DSP-Colum-346-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-07-02,No,130702DSP-Milw-345,130702DSP-Milw-345-90D,No,,,,,,,,,No PDF
+La Crosse,2013-07-14,No,130714DSP-Lacr-344,130714DSP-Lacr-344-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-07-04,No,130704DSP-Milw-343,130704DSP-Milw-343-90D,130704DSP-Milw-343-6M,,,,,,,,,No PDF
+Calumet,2013-07-09,No,130709DSP-Calu-342,130709DSP-Calu-342-90D,130709DSP-Calu-342-6M,,,,,,,,,No PDF
+Milwaukee,2013-07-07,No,130707DSP-Milw-341,130707DSP-Milw-341-90D,No,,,,,,,,,No PDF
+Marathon,2013-07-07,No,130707DSP-Mara-341,130707DSP-Mara-341-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-07-04,No,130704DSP-Milw-340,130704DSP-Milw-340-90D,No,,,,,,,,,No PDF
+Green Lake,2013-06-29,No,130629DSP-Grnlk-339,130629DSP-Grnlk-339-90D,130629DSP-Grnlk-339-6M,,,,,,,,,No PDF
+Crawford,2013-06-24,No,130624DSP-Craw-338,130624DSP-Craw-338-90D,No,,,,,,,,,No PDF
+Dodge,2013-06-21,No,130621DSP-Dodge-337,130621DSP-Dodge-337-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-06-23,No,130623DSP-Milw-336,130623DSP-Milw-336-90D,No,,,,,,,,,No PDF
+Trempealeau,2013-06-22,No,130622DSP-Tremp-335,130622DSP-Tremp-335-90D,130622DSP-Tremp-335-6M,,,,,,,,,No PDF
+Vernon,2013-06-19,No,130619DSP-Vern-334,130619DSP-Vern-334-90D,No,,,,,,,,,No PDF
+Taylor,2013-03-08,No,130308DSP-Tayl-333,130308DSP-Tayl-333-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-06-13,No,130613DSP-Milw-332,130613DSP-Milw-332-90D,No,,,,,,,,,No PDF
+Monroe,2013-06-06,No,130606DSP-Monro-331,130606DSP-Monro-331-90D,130606DSP-Monro-331-6M,,,,,,,,,No PDF
+Marinette,2013-06-04,No,130604DSP-Marin-330,130604DSP-Marin-330-90D,No,,,,,,,,,No PDF
+Oconto,2013-05-14,No,130514DSP-Ocon-329,130514DSP-Ocon-329-90D,130514DSP-Ocon-329-6M,,,,,,,,,No PDF
+Milwaukee,2013-05-13,No,130513DSP-Milw-328,130513DSP-Milw-328-90D,No,,,,,,,,,No PDF
+Racine,2013-05-10,No,130510DSP-Racin-327,130510DSP-Racin-327-90D,130510DSP-Racin-327-6M,,,,,,,,,No PDF
+Brown,2013-05-07,No,130507DSP-Brown-326,130507DSP-Brown-326-90D,No,,,,,,,,,No PDF
+Dane,2013-05-03,No,130503DSP-Dane-325,130503DSP-Dane-325-90D,130503DSP-Dane-325-6M,,,,,,,,,No PDF
+Columbia,2013-04-30,No,130430DSP-Colum-324,130430DSP-Colum-324-90D,No,,,,,,,,,No PDF
+Washington,2013-04-25,No,130425DSP-Wash-323,130425DSP-Wash-323-90D,No,,,,,,,,,No PDF
+Pierce,2013-05-01,No,130501DSP-Pier-322,130501DSP-Pier-322-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-04-28,No,130428DSP-Milw-321,130428DSP-Milw-321-90D,No,,,,,,,,,No PDF
+Dane,2013-04-26,No,130426DSP-Dane-320,130426DSP-Dane-320-90D,130426DSP-Dane-320-6M,,,,,,,,,No PDF
+Milwaukee,2013-04-20,No,130420DSP-Milw-319,130420DSP-Milw-319-90D,130420DSP-Milw-319-6M,,,,,,,,,No PDF
+Milwaukee,2013-04-21,No,130421DSP-Milw-318,130421DSP-Milw-318-90D,No,,,,,,,,,No PDF
+Brown,2013-06-08,No,120608DSP-Brown-317,120608DSP-Brown-317-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-04-19,No,130419DSP-Milw-316,130419DSP-Milw-316-90D,No,,,,,,,,,No PDF
+Winnebago,2013-04-16,No,130416DSP-Winn-315,130416DSP-Winn-315-90D,130416DSP-Winn-315-6M,,,,,,,,,No PDF
+Milwaukee,2013-04-19,No,130419DSP-Milw-314,130419DSP-Milw-314-90D,No,,,,,,,,,No PDF
+Jefferson,2013-04-18,No,130418DSP-Jeff-313,130418DSP-Jeff-313-90D,No,,,,,,,,,No PDF
+Sheboygan,2013-04-09,No,130409DSP-Sheb-312,130409DSP-Sheb-312-90D,130409DSP-Sheb-312-6M,,,,,,,,,No PDF
+Milwaukee,2013-04-09,No,130409DSP-Milw-311,130409DSP-Milw-311-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-04-11,No,130411DSP-Milw-310,130411DSP-Milw-310-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-04-08,No,130408DSP-Milw-309,130408DSP-Milw-309-90D,No,,,,,,,,,No PDF
+Columbia,2013-03-29,No,130329DSP-Colum-308,130329DSP-Colum-308-90D,No,,,,,,,,,No PDF
+Portage,2013-03-28,No,130328DSP-Port-307,130328DSP-Port-307-90D,130328DSP-Port-307-6M,,,,,,,,,No PDF
+Buffalo,2013-03-21,No,130321DSP-Buff-306,130321DSP-Buff-306-90D,No,,,,,,,,,No PDF
+Sauk,2013-03-22,No,130322DSP-Sauk-305,130322DSP-Sauk-305-90D,No,,,,,,,,,No PDF
+Fond du Lac,2013-03-14,No,130314DSP-Fond-304,130314DSP-Fond-304-90D,No,,,,,,,,,No PDF
+Dunn,2013-03-20,No,130320DSP-Dunn-303,130320DSP-Dunn-303-90D,No,,,,,,,,,No PDF
+Columbia,2013-03-13,No,130313DSP-Colum-302,130313DSP-Colum-302-90D,No,,,,,,,,,No PDF
+Brown,2013-03-20,No,130320DSP-Brown-301,130320DSP-Brown-301-90D,No,,,,,,,,,No PDF
+Eau Claire,2013-03-16,No,130316DSP-Eacul-300,130316DSP-Eacul-300-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-03-04,No,130304DSP-Milw-299,130304DSP-Milw-299-90D,130304DSP-Milw-299-6M,,,,,,,,,No PDF
+Milwaukee,2013-02-27,No,130227DSP-Milw-298,130227DSP-Milw-298-90D,130227DSP-Milw-298-6M,,,,,,,,,No PDF
+Fond du Lac,2013-02-19,No,130219DSP-Fond-297,130219DSP-Fond-297-90D,No,,,,,,,,,No PDF
+Dane,2013-02-14,No,130214DSP-Dane-296,130214DSP-Dane-296-90D,130214DSP-Dane-296-6M,,,,,,,,,No PDF
+Dane,2012-11-22,No,121122DSP-Dane-295,121122DSP-Dane-295-90D,121122DSP-Dane-295-6M,,,,,,,,,No PDF
+Waukesha,2013-01-20,No,130122DSP-Wauk-294,130122DSP-Wauk-294-90D,No,,,,,,,,,No PDF
+Brown,2013-02-05,No,130205DSP-Brown-293,130205DSP-Brown-293-90D,No,,,,,,,,,No PDF
+Milwaukee,2013-02-05,No,130205DSP-Milw-292,130205DSP-Milw-292-90D,130205DSP-Milw-292-6M,,,,,,,,,No PDF
+Milwaukee,2013-01-20,No,130120DSP-Milw-291,130120DSP-Milw-291-90D,No,,,,,,,,,No PDF
+Eau Claire,2013-01-25,No,130125DSP-Eacul-290,130125DSP-Eacul-290-90D,No,,,,,,,,,No PDF
+Kenosha,2013-01-22,No,130122DSP-Keno-289,130122DSP-Keno-289-90D,No,,,,,,,,,No PDF
+La Crosse,2013-01-15,No,130115DSP-Lacr-288,130115DSP-Lacr-288-90D,130115DSP-Lacr-288-6M,,,,,,,,,No PDF
+Sheboygan,2013-01-18,No,130118DSP-Sheb-287,130118DSP-Sheb-287-90D,No,,,,,,,,,No PDF
+Columbia,2013-01-02,No,130102DSP-Colum-286,130102DSP-Colum-286-90D,No,,,,,,,,,No PDF
+Waukesha,2013-01-17,No,130117DSP-Wauk-285,130117DSP-Wauk-285-90D,130117DSP-Wauk-285-6M,,,,,,,,,No PDF
+Oconto,2013-01-08,No,130108DSP-Ocon-284,130108DSP-Ocon-284-90D,130108DSP-Ocon-284-6M,,,,,,,,,No PDF
+Dane,2013-01-11,No,130111DSP-Dane-283,130111DSP-Dane-283-90D,No,,,,,,,,,No PDF
+Oconto,2012-12-01,No,121201DSP-Oconto-282,121201DSP-Oconto-282-90D,121201DSP-Ocon-282-6M,,,,,,,,,No PDF
+Brown,2012-10-07,No,130107DSP-Brown-281,130107DSP-Brown-281-90D,130107DSP-Brown-281-6M,,,,,,,,,No PDF
+Milwaukee,2013-01-07,No,130107DSP-Milw-280,130107DSP-Milw-280-90D,No,,,,,,,,,No PDF
+Dodge,2012-12-28,No,121228DSP-Dodge-279,121228DSP-Dodge-279-90D,121228DSP-Dodge-279-6M,,,,,,,,,No PDF
+Price,2012-12-21,No,121221DSP-Price-278,121221DSP-Price-278-90D/td>,No,,,,,,,,,No PDF
+Kenosha,2013-01-01,No,130101DSP-Keno-277,130101DSP-Keno-277-90D,No,,,,,,,,,No PDF
+Adams,2012-12-19,No,121219DSP-Adams-276,121219DSP-Adams-276-90D,121219DSP-Adams-276-6M,,,,,,,,,No PDF
+Milwaukee,2012-11-05,No,121105DSP-Milw-275,121105DSP-Milw-275-90D,121105DSP-Milw-275-6M,,,,,,,,,No PDF
+Walworth,2012-12-11,No,121211DSP-Walw-274,121211DSP-Walw-274-90D,No,,,,,,,,,No PDF
+Winnebago,2012-12-13,No,121213DSP-Winn-273,121213DSP-Winn-273-90D,No,,,,,,,,,No PDF
+Eau Claire,2012-11-15,No,121115DSP-Eacul-272,121115DSP-Eacul-272-90D,121115DSP-Eacul-272-6M,,,,,,,,,No PDF
+Jefferson,2012-12-08,No,121208DSP-Jeff-271,121208DSP-Jeff-271-90D,121208DSP-Jeff-271-6M,,,,,,,,,No PDF
+Green,2012-11-29,No,121129DSP-Green-270,121129DSP-Green-270-90D,No,,,,,,,,,No PDF
+Racine,2012-11-29,No,121129DSP-Racin-269,121129DSP-Racin-269-90D,121129DSP-Racin-269-6M,,,,,,,,,No PDF
+Walworth,2012-11-28,No,121128DSP-Walw-268,121128DSP-Walw-268-90D,No,,,,,,,,,No PDF
+Oneida,2012-11-21,No,121121DSP-Oneida-267,121121DSP-Oneida-267-90D,121121DSP-Oneida-267-6M,,,,,,,,,No PDF
+Milwaukee,2012-11-10,No,121110DSP-Milw-266,121110DSP-Milw-266-90D,121110DSP-Milw-266-6M,,,,,,,,,No PDF
+Monroe,2012-11-07,No,121107DSP-Monro-265,121107DSP-Monro-265-90D,121107DSP-Monro-265-6M,,,,,,,,,No PDF
+Brown,2012-10-16,No,121016DSP-Brown-264,121016DSP-Brown-264-90D,121016DSP-Brown-264-6M,,,,,,,,,No PDF
+Walworth,2012-10-28,No,121028DSP-Walw-263,121028DSP-Walw-263-90D,No,,,,,,,,,No PDF
+Jefferson,2012-10-08,No,121008DSP-Jeff-262,121008DSP-Jeff-262-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-10-19,No,121019DSP-Milw-261,121019DSP-Milw-261-90D,No,,,,,,,,,No PDF
+Columbia,2012-10-17,No,121017DSP-Colum-260,121017DSP-Colum-260-90D,121017DSP-Colum-260-6M,,,,,,,,,No PDF
+Burnett,2012-10-01,No,120101DSP-Burn-259,120101DSP-Burn-259-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-10-06,No,121006DSP-Milw-258,121006DSP-Milw-258-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-10-01,No,121001DSP-Milw-257,121001DSP-Milw-257-90D,No,,,,,,,,,No PDF
+Dane,2012-09-15,No,120915DSP-Dane-256,120915DSP-Dane-256-90D,No,,,,,,,,,No PDF
+Dane,2012-09-06,No,120906DSP-Dane-255,120906DSP-Dane-255-90D,No,,,,,,,,,No PDF
+Dane,2012-09-29,No,120929DSP-Dane-254,120929DSP-Dane-254-90D,No,,,,,,,,,No PDF
+Dane,2012-09-21,No,120921DSP-Dane-253,120921DSP-Dane-253-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-09-19,No,120919DSP-Milw-252,120919DSP-Milw-252-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-09-22,No,120922DSP-Milw-251,120922DSP-Milw-251-90D,120922DSP-Milw-251-6M,,,,,,,,,No PDF
+Dane,2012-09-14,No,120924DSP-Dane-250,120924DSP-Dane-250-90D,No,,,,,,,,,No PDF
+Monroe,2012-09-18,No,120918DSP-Monro-249,120918DSP-Monro-249-90D,120918DSP-Monro-249-6M,,,,,,,,,No PDF
+Waukesha,2012-09-15,No,120915DSP-Wauk-248,120915DSP-Wauk-248-90D,No,,,,,,,,,No PDF
+Polk,2012-09-07,No,120907DSP-Polk-247,120907DSP-Polk-247-90D,120907DSP-Polk-247-6M,,,,,,,,,No PDF
+Milwaukee,2012-09-11,No,120911DSP-Milw-246,120911DSP-Milw-246-90D,No,,,,,,,,,No PDF
+Lafayette,2012-09-07,No,120907DSP-Lafay-245,120907DSP-Lafay-245-90D,120907DSP-Lafay-245-6M,,,,,,,,,No PDF
+Dane,2012-09-04,No,120904DSP-Dane-244,120904DSP-Dane-244-90D,No,,,,,,,,,No PDF
+Portage,2012-09-04,No,120904DSP-Port-243,120904DSP-Port-243-90D,120904DSP-Port-243-6M,,,,,,,,,No PDF
+Milwaukee,2012-09-03,No,120903DSP-Milw-242,120903DSP-Milw-242-90D,120903DSP-Milw-242-6M,,,,,,,,,No PDF
+Kenosha,2012-09-03,No,120903DSP-Keno-241,120903DSP-Keno-241-90D,No,,,,,,,,,No PDF
+Waukesha,2012-09-01,No,120901DSP-Wauk-240,120901DSP-Wauk-240-90D,No,,,,,,,,,No PDF
+Racine,2012-08-28,No,120828DSP-Racin-239,120828DSP-Racin-239-90D,No,,,,,,,,,No PDF
+Racine,2012-08-26,No,120826DSP-Racin-238,120826DSP-Racin-238-90D,120826DSP-Racin-238-6M,,,,,,,,,No PDF
+Milwaukee,2012-08-26,No,120826DSP-Milw-237,120826DSP-Milw-237-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-08-27,No,120827DSP-Milw-236,120827DSP-Milw-236-90D,No,,,,,,,,,No PDF
+Dodge,2012-05-29,No,120529DSP-Dodge-235,120529DSP-Dodge-235-90D,120529DSP-Dodge-235-6M,,,,,,,,,No PDF
+Burnett,2012-08-14,No,120814DSP-Burn-234,120814DSP-Burn-234-90D,No,,,,,,,,,No PDF
+Wood,2012-08-04,No,120804DSP-Wood-233,120804DSP-Wood-233-90D,No,,,,,,,,,No PDF
+Dane,2012-08-13,No,120813DSP-Dane-232,120813DSP-Dane-232-90D,120813DSP-Dane-232-6M,,,,,,,,,No PDF
+Racine,2012-08-09,No,120809DSP-Racin-231,120809DSP-Racin-231-90D,No,,,,,,,,,No PDF
+Clark,2012-06-18,No,120618DSP-Clark-230,120618DSP-Clark-230-90D,No,,,,,,,,,No PDF
+Walworth,2012-08-02,No,120802DSP-Walw-229,120802DSP-Walw-229-90D,No,,,,,,,,,No PDF
+Calumet,2012-07-18,No,120718DSP-Calu-228,120718DSP-Calu-228-90D,No,,,,,,,,,No PDF
+Kenosha,2012-07-30,No,120730DSP-Keno-227,120730DSP-Keno-227-90D,No,,,,,,,,,No PDF
+Grant,2012-07-27,No,120727DSP-Grant-226,120727DSP-Grant-226-90D,No,,,,,,,,,No PDF
+Menononee,2012-07-23,No,120723DSP-Meno-225,120723DSP-Meno-225-90D,No,,,,,,,,,No PDF
+Douglas,2012-07-17,No,120717DSP-Doug-224,120717DSP-Doug-224-90D,120717DSP-Doug-224-6M,,,,,,,,,No PDF
+Racine,2012-07-14,No,120714DSP-Racin-223,120714DSP-Racin-223-90D,No,,,,,,,,,No PDF
+Walworth,2011-07-27,No,110727DSP-Walw-222,110727DSP-Walw-222-90D,110727DSP-Walw-222-6M,,,,,,,,,No PDF
+Kenosha,2012-07-11,No,120711DSP-Keno-221,120711DSP-Keno-221-90D,120711DSP-Keno-221-6M,,,,,,,,,No PDF
+Walworth,2012-07-09,No,120709DSP-Walw-220,120709DSP-Walw-220-90D,No,,,,,,,,,No PDF
+Dane,2012-07-09,No,120709DSP-Dane-219,120709DSP-Dane-219-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-07-06,No,120706DSP-Milw-218,120706DSP-Milw-218-90D,120706DSP-Milw-218-6M,,,,,,,,,No PDF
+Barron,2012-07-05,No,120705DSP-Barr-217,120705DSP-Barr-217-90D,No,,,,,,,,,No PDF
+Fond du Lac,2012-07-07,No,120707DSP-Fond-216,120707DSP-Fond-216-90D,120707DSP-Fond-216-6M,,,,,,,,,No PDF
+Milwaukee,2012-06-23,No,120623DSP-Milw-215,120623DSP-Milw-215-90D,120623DSP-Milw-215-6M,,,,,,,,,No PDF
+Dane,2012-06-21,No,120621DSP-Dane-214,120621DSP-Dane-214-90D,No,,,,,,,,,No PDF
+Juneau,2012-06-18,No,120618DSP-June-213,120618DSP-June-213-90D,120618DSP-June-213-6M,,,,,,,,,No PDF
+Wood,2012-06-07,No,120607DSP-Wood-212,120607DSP-Wood-212-90D,120607DSP-Wood-212-6M,,,,,,,,,No PDF
+Marathon,2012-05-25,No,120525DSP-Mara-211,120525DSP-Mara-211-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-06-01,No,120601DSP-Milw-210,120601DSP-Milw-210-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-06-02,No,120602DSP-Milw-209,120602DSP-Milw-209-90D,No,,,,,,,,,No PDF
+Langlade,2012-05-27,No,120527DSP-Lang-208,120527DSP-Lang-208-90D,120527DSP-Lang-208-6M,,,,,,,,,No PDF
+Marathon,2012-05-10,No,120510DSP-Mara-207,120510DSP-Mara-207-90D,No,,,,,,,,,No PDF
+Marathon,2012-03-07,No,120307DSP-Mara-206,120307DSP-Mara-206-90D,120307DSP-Mara-206-6M,,,,,,,,,No PDF
+Milwaukee,2012-05-22,No,120522DSP-Milw-205,120522DSP-Milw-205-90D,No,,,,,,,,,No PDF
+Kenosha,2012-05-17,No,120517DSP-Keno-204,120517DSP-Keno-204-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-05-17,No,120517DSP-Milw-203,120517DSP-Milw-203-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-02-28,No,110228DSP-Milw-202,110228DSP-Milw-202-90D,110228DSP-Milw-202-6M,,,,,,,,,No PDF
+Racine,2012-05-11,No,120511DSP-Racin-201,120511DSP-Racin-201-90D,No,,,,,,,,,No PDF
+Dane,2012-05-06,No,120506DSP-Dane-200,120506DSP-Dane-200-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-05-04,No,120504DSP-Milw-199,120504DSP-Milw-199-90D,120504DSP-Milw-199-6M,,,,,,,,,No PDF
+Washington,2012-05-01,No,120501DSP-Wash-198,120501DSP-Wash-198-90D,120501DSP-Wash-198-6M,,,,,,,,,No PDF
+Outagamie,2012-04-23,No,120423DSP-Outag-197,120423DSP-Outag-197-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-04-22,No,120422DSP-Milw-196,120422DSP-Milw-196-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-04-10,No,120410DSP-Milw-195,120410DSP-Milw-195-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-04-13,No,120413DSP-Milw-194,120413DSP-Milw-194-90D,120413DSP-Milw-194-6M,,,,,,,,,No PDF
+Clark,2012-04-09,No,120409DSP-Clark-193,120409DSP-Clark-193-90D,No,,,,,,,,,No PDF
+Dane,2012-04-19,No,120419DSP-Dane-192,120419DSP-Dane-192-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-08-18,No,110818DSP-Milw-191,110818DSP-Milw-191-90D,No,,,,,,,,,No PDF
+Kenosha,2012-03-21,No,120321DSP-Keno-190,120321DSP-Keno-190-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-02-15,No,120215DSP-Milw-189,120215DSP-Milw-189-90D,No,,,,,,,,,No PDF
+Winnebago,2012-03-01,No,120301DSP-Winn-188,120301DSP-Winn-188-90D,No,,,,,,,,,No PDF
+Sauk,2012-03-08,No,120308DSP-Sauk-187,120308DSP-Sauk-187-90D,120308DSP-Sauk-187-6M,,,,,,,,,No PDF
+Calumet,2012-03-06,No,120306DSP-Calu-186,120306DSP-Calu-186-90D,No,,,,,,,,,No PDF
+Racine,2012-02-26,No,120226DSP-Racin-185,120226DSP-Racin-185-90D,No,,,,,,,,,No PDF
+Milwaukee,2012-02-17,No,120217DSP-Milw-184,120217DSP-Milw-184-90D,120217DSP-Milw-184-6M,,,,,,,,,No PDF
+Milwaukee,2011-10-06,No,111006DSP-Milw-183,111006DSP-Milw-183-90D,No,,,,,,,,,No PDF
+Brown,2012-02-03,No,120203DSP-Brown-182,120203DSP-Brown-182-90D,No,,,,,,,,,No PDF
+Dodge,2012-01-20,No,120120DSP-Dodge-181,120120DSP-Dodge-181-90D,No,,,,,,,,,No PDF
+Sheboygan,2012-02-11,No,120211DSP-Sheb-180,120211DSP-Sheb-180-90D,No,,,,,,,,,No PDF
+Jackson,2012-02-08,No,120208DSP-Jack-179,120208DSP-Jack-179-90D,No,,,,,,,,,No PDF
+Dane,2012-02-06,No,120206DSP-Dane-178,120206DSP-Dane-178-90D,120206DSP-Dane-178-6M,,,,,,,,,No PDF
+Milwaukee,2012-02-03,No,120203DSP-Milw-177,120203DSP-Milw-177-90D,No,,,,,,,,,No PDF
+Trempealeau,2012-01-28,No,120128DSP-Tremp-176,120128DSP-Tremp-176-90D,No,,,,,,,,,No PDF
+Wood,2012-01-10,No,120110DSP-Wood-175,120110DSP-Wood-175-90D,No,,,,,,,,,No PDF
+Jackson,2012-01-06,No,120106DSP-Jack-174,120106DSP-Jack-174-90D,No,,,,,,,,,No PDF
+Fond du Lac,2012-01-05,No,120105DSP-Fond-173,120105DSP-Fond-173-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-12-25,No,111225DSP-Milw-172,111225DSP-Milw-172-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-12-31,No,111231DSP-Milw-171,111231DSP-Milw-171-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-11-09,No,111109DSP-Milw-170,111109DSP-Milw-170-90D,No,,,,,,,,,No PDF
+Washington,2011-12-14,No,111214DSP-Wash-169,111214DSP-Wash-169-90D,No,,,,,,,,,No PDF
+Outagamie,2011-11-09,No,111109DSP-Outag-168,111109DSP-Outag-168-90D,No,,,,,,,,,No PDF
+Outagamie,2011-11-09,No,111109DSP-Outag-167,111109DSP-Outag-167-90D,No,,,,,,,,,No PDF
+Monroe,2011-11-17,No,111117DSP-Monr-166,111117DSP-Monr-166-90D,No,,,,,,,,,No PDF
+Iowa,2011-11-18,No,111118DSP-Iowa-165,111118DSP-Iowa-165-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-10-10,No,111010DSP-Milw-164,111010DSP-Milw-164-90D,No,,,,,,,,,No PDF
+Dodge,2011-10-28,No,111028DSP-Dodge-163,111028DSP-Dodge-163-90D,No,,,,,,,,,No PDF
+Portage,2011-10-26,No,111026DSP-Port-162,111026DSP-Port-162-90D,No,,,,,,,,,No PDF
+Crawford,2011-10-20,No,111020DSP-Craw-161,111020DSP-Craw-161-90D,No,,,,,,,,,No PDF
+Eau Claire,2011-10-23,No,111023DSP-Eacul-160,111023DSP-Eacul-160-90D,No,,,,,,,,,No PDF
+Wood,2011-10-19,No,111019DSP-Wood-159,111019DSP-Wood-159-90D,No,,,,,,,,,No PDF
+Door,2011-10-19,No,111019DSP-Door-158,111019DSP-Door-158-90D,No,,,,,,,,,No PDF
+Racine,2011-10-20,No,111020DSP-Racin-157,111020DSP-Racin-157-90D,No,,,,,,,,,No PDF
+Rock,2011-10-18,No,111018DSP-Rock-156,111018DSP-Rock-156-90D,No,,,,,,,,,No PDF
+Sauk,2011-10-03,No,111003DSP-Sauk-155,111003DSP-Sauk-155-90D,No,,,,,,,,,No PDF
+Rusk,2011-10-05,No,111005DSP-Rusk-154,111005DSP-Rusk-154-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-09-26,No,110926DSP-Milw-153,110926DSP-Milw-153-90D,No,,,,,,,,,No PDF
+Trempealeau,2011-09-28,No,110928DSP-Tremp-152,110928DSP-Tremp-152-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-09-26,No,110926DSP-Milw-151,110926DSP-Milw-151-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-09-25,No,110925DSP-Milw-150,110925DSP-Milw-150-90D,No,,,,,,,,,No PDF
+Walworth,2011-09-22,No,110922DSP-Walw-149,110922DSP-Walw-149-90D,No,,,,,,,,,No PDF
+Winnebago,2011-09-17,No,110917DSP-Winn-148,110917DSP-Winn-148-90D,No,,,,,,,,,No PDF
+Outagamie,2011-09-09,No,110909DSP-Outag-147,110909DSP-Outag-147-90D,No,,,,,,,,,No PDF
+Vilas,2011-09-09,No,110909DSP-Vilas-146,110909DSP-Vilas-146-90D,No,,,,,,,,,No PDF
+Dunn,2011-08-30,No,110830DSP-Dunn-145,110830DSP-Dunn-145-90D,No,,,,,,,,,No PDF
+Dane,2011-08-28,No,110828DSP-Dane-144,110828DSP-Dane-144-90D,No,,,,,,,,,No PDF
+Oneida,2011-07-22,No,110722DSP-Oneid-143,110722DSP-Oneid-143-90D,No,,,,,,,,,No PDF
+Brown,2011-08-19,No,110819DSP-Brown-142,110819DSP-Brown-142-90,No,,,,,,,,,No PDF
+Dane,2011-08-24,No,110824DSP-Dane-141,110824DSP-Dane-141-90D,No,,,,,,,,,No PDF
+Dane,2011-08-20,No,110820DSP-Dane-140,110820DSP-Dane-140-90D,No,,,,,,,,,No PDF
+Sauk,2011-08-18,No,110818DSP-Sauk-139,110818DSP-Sauk-139-90D,No,,,,,,,,,No PDF
+Saint Croix,2011-08-18,No,110818DSP-Stcr-138,110818DSP-Stcr-138-90D,No,,,,,,,,,No PDF
+Dane,2011-08-14,No,110814DSP-Dane-137,110814DSP-Dane-137-90D,No,,,,,,,,,No PDF
+Monroe,2011-08-11,No,110811DSP-Monr-136,110811DSP-Monr-136-90D,No,,,,,,,,,No PDF
+Grant,2011-08-13,No,110813DSP-Grant-135,110813DSP-Grant-135-90,No,,,,,,,,,No PDF
+Dane,2011-08-05,No,110805DSP-Dane-134,110805DSP-Dane-134-90D,No,,,,,,,,,No PDF
+Rock,2011-08-04,No,110804DSP-Rock-133,110804DSP-Rock-133-90D,No,,,,,,,,,No PDF
+Saint Croix,2011-07-23,No,110723DSP-Stcr-132,110723DSP-Stcr-132-90D,No,,,,,,,,,No PDF
+Dane,2011-07-22,No,110722DSP-Dane-131,110722DSP-Dane-131-90D,No,,,,,,,,,No PDF
+Adams,2011-07-16,No,110716DSP-Adams-130,110716DSP-Adams-130-90D,No,,,,,,,,,No PDF
+La Crosse,2011-07-14,No,110714DSP-Lacr-129,110714DSP-Lacr-129-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-07-12,No,110712DSP-Milw-128,110712DSP-Milw-128-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-07-13,No,110713DSP-Lacr-127,110713DSP-Lacr-127-90D,No,,,,,,,,,No PDF
+Polk,2011-07-11,No,110711DSP-Polk-126,110711DSP-Polk-126-90D,No,,,,,,,,,No PDF
+Richland,2011-07-03,No,110703DSP-Rich-125,110703DSP-Rich-125-90D,No,,,,,,,,,No PDF
+Dane,2011-07-05,No,110705DSP-Dane-124,110705DSP-Dane-124-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-07-03,No,110703DSP-Milw-123,110703DSP-Milw-123-90D,No,,,,,,,,,No PDF
+Dane,2011-06-30,No,110630DSP-Dane-122,110630DSP-Dane-122-90D,No,,,,,,,,,No PDF
+Douglas,2011-06-28,No,110628DSP-Doug-121,110628DSP-Doug-121-90D,No,,,,,,,,,No PDF
+Eau Claire,2011-06-25,No,110625DSP-Eacul-120,110625DSP-Eacul-120-90D,No,,,,,,,,,No PDF
+Dane,2011-06-23,No,110623DSP-Dane-119,110623DSP-Dane-119-90D,No,,,,,,,,,No PDF
+Barron,2011-06-17,No,110617DSP-Barr-118,110617DSP-Barron-118-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-06-09,No,110610DSP-Milw-117,110609DSP-Milw-117-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-06-08,No,110608DSP-Milw-116,110608DSP-Milw-116-90D,No,,,,,,,,,No PDF
+Winnebago,2011-06-06,No,110606DSP-Winn-115,110606DSP-Winn-115-90D,No,,,,,,,,,No PDF
+Outagamie,2011-06-04,No,110604DSP-Outag-114,110604DSP-Outag-114-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-05-28,No,110528DSP-Milw-113,110528DSP-Milw-113-90D,No,,,,,,,,,No PDF
+Grant,2011-05-31,No,110531DSP-Grant-112,110531DSP-Grant-112-90D,No,,,,,,,,,No PDF
+Dane,2011-05-21,No,110521DSP-Dane-111,110521DSP-Dane-111-90D,No,,,,,,,,,No PDF
+Grant,2011-05-21,No,110521DSP-Grant-110,110521DSP-Grant-110-90D,No,,,,,,,,,No PDF
+Monroe,2011-05-18,No,110518DSP-Monr-109,110518DSP-Monr-109-90D,No,,,,,,,,,No PDF
+Clark,2011-05-17,No,110517DSP-Clark-108,110517DSP-Clark-108-90D,No,,,,,,,,,No PDF
+Outagamie,2011-05-09,No,110509DSP-Outag-107,110509DSP-Outag-107-90D,No,,,,,,,,,No PDF
+Outagamie,2011-04-30,No,110430DSP-Outag-106,110430DSP-Outag-106-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-04-29,No,110429DSP-Milw-105,110429DSP-Milw-105-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-04-28,No,110428DSP-Milw-104,110428DSP-Milw-104-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-04-27,No,110427DSP-Milw-103,110427DSP-Milw-103-90D,No,,,,,,,,,No PDF
+Brown,2011-04-27,No,110427DSP-Brown-102,110427DSP-Brown-102-90D,No,,,,,,,,,No PDF
+Fond du Lac,2011-04-15,No,110415DSP-Fond-101,110415DSP-Fond-101-90D,No,,,,,,,,,No PDF
+Rock,2011-04-20,No,110420DSP-Rock-100,110420DSP-Rock-100-90D,No,,,,,,,,,No PDF
+Oconto,2011-04-01,No,110401DSP-Ocon-99,110401DSP-Ocon-99-90D,No,,,,,,,,,No PDF
+Rock,2011-04-15,No,110415DSP-Rock-98,110415DSP-Rock-98-90D,No,,,,,,,,,No PDF
+Jefferson,2011-04-14,No,110414DSP-Jeff-97,110414DSP-Jeff-97-90D,No,,,,,,,,,No PDF
+Vernon,2011-04-11,No,110411DSP-Vern-96,110411DSP-Vern-96-90D,No,,,,,,,,,No PDF
+Columbia,2011-04-05,No,110405DSP-Col-95,110405DSP-Col-95-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-04-02,No,110402DSP-Milw-94,110402DSP-Milw-94-90D,No,,,,,,,,,No PDF
+Jefferson,2011-04-03,No,110403DSP-Jeff-93,110403DSP-Jeff-93-90D,No,,,,,,,,,No PDF
+Grant,2011-03-30,No,110330DSP-Grant-92,110330DSP-Grant-92-90D,No,,,,,,,,,No PDF
+Winnebago,2011-03-25,No,110325DSP-Winn-91,110325DSP-Winn-91-90D,No,,,,,,,,,No PDF
+Waukesha,2011-03-27,No,110327DSP-Wauk-90,110327DSP-Wauk-90-90D,No,,,,,,,,,No PDF
+Fond du Lac,2011-03-26,No,110326DSP-Fond-89,110326DSP-Fond-89-90D,No,,,,,,,,,No PDF
+La Crosse,2011-03-19,No,110319DSP-Lacr-88,110319DSP-Lacr-88-90D,No,,,,,,,,,No PDF
+Dane,2011-03-06,No,110306DSP-Dane-87,110306DSP-Dane-87-90D,No,,,,,,,,,No PDF
+Saint Croix,2011-03-08,No,110308DSP-Stcr-86,110308DSP-Stcr-86-90D,No,,,,,,,,,No PDF
+Polk,2011-02-27,No,110227DSP-Polk-85,110227DSP-Polk-85-90D,No,,,,,,,,,No PDF
+Manitowoc,2011-03-18,No,110318DSP-Mani-84,110318DSP-Mani-84-90D,No,,,,,,,,,No PDF
+La Crosse,2011-02-16,No,110216DSP-Lacr-83,110216DSP-Lacr-83-90D,No,,,,,,,,,No PDF
+Marathon,2011-02-18,No,110218DSP-Mara-82,110218DSP-Mara-82-90D,No,,,,,,,,,No PDF
+Columbia,2011-03-01,No,110301DSP-Col-81,110301DSP-Col-81-90D,No,,,,,,,,,No PDF
+Jefferson,2011-02-13,No,110213DSP-Jeff-80,110213DSP-Jeff-80-90D,110213DSP-Jeff-80-6M,,,,,,,,,No PDF
+Vilas,2011-02-13,No,110213DSP-Vilas-79,110213DSP-Vilas-79-90D,No,,,,,,,,,No PDF
+Winnebago,2011-02-09,No,110209DSP-Winn-78,110209DSP-Winn-78-90D,No,,,,,,,,,No PDF
+Sauk,2011-02-06,No,110206DSP-Sauk-77,110206DSP-Sauk-77-90D,No,,,,,,,,,No PDF
+Clark,2011-02-07,No,110207DSP-Clark-76,110207DSP-Clark-76-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-01-21,No,110121DSP-Milw-75,110112DSP-Milw-75-90D,No,,,,,,,,,No PDF
+Waukesha,2011-01-13,No,110113DSP-Wauk-74,110112DSP-Wauk-74-90D,No,,,,,,,,,No PDF
+Milwaukee,2011-01-12,No,110112DSP-Milw-73,110112DSP-Milw-73-90D,No,,,,,,,,,No PDF
+Douglas,2011-01-07,No,110107DSP-Doug-72,110107DSP-Doug-72-90D,110107DSP-Doug-72-6M,,,,,,,,,No PDF
+Winnebago,2010-12-30,No,101230DSP-PN-71,101230DSP-PN-71-90D,No,,,,,,,,,No PDF
+La Crosse,2010-12-28,No,101228DSP-PN-70,101228DSP-PN-70-90D,No,,,,,,,,,No PDF
+Fond du Lac,2010-12-21,No,101221DSP-PN-69,101221DSP-PN-69-90D,No,,,,,,,,,No PDF
+Walworth,2010-12-14,No,101214DSP-PN-68,101214DSP-PN-68-90D,No,,,,,,,,,No PDF
+Winnebago,2010-12-06,No,101206DSP-PN-67,101206DSP-PN-67-90D,No,,,,,,,,,No PDF
+Waupaca,2010-11-24,No,101124DSP-PN-66,101124DSP-PN-66-90D,No,,,,,,,,,No PDF
+Eau Claire,2010-11-23,No,101123DSP-PN-65,101123DSP-PN-65-90D,101123DSP-PN-65-6M,,,,,,,,,No PDF
+Dane,2010-11-15,No,101115DSP-PN-64,101115DSP-PN-64-90D,No,,,,,,,,,No PDF
+Waukesha,2010-11-04,No,101104DSP-PN-63,101104DSP-PN-63-90D,No,,,,,,,,,No PDF
+Winnebago,2010-10-30,No,101030DSP-PN-62,101030DSP-PN-62-90D,No,,,,,,,,,No PDF
+Door,2010-10-28,No,101028DSP-PN-61,101028DSP-PN-61-90D,No,,,,,,,,,No PDF
+Langlade,2010-10-24,No,101024DSP-PN-60,101024DSP-PN-60-90D,No,,,,,,,,,No PDF
+Marathon,2010-10-14,No,101014DSP-PN-59,101014DSP-PN-59-90D,No,,,,,,,,,No PDF
+Rock,2010-10-12,No,101012DSP-PN-58,101012DSP-PN-58-90D,No,,,,,,,,,No PDF
+Dane,2010-10-07,No,101007DSP-PN-57,101007DSP-PN-57-90D,No,,,,,,,,,No PDF
+Barron,2010-10-09,No,101009DSP-PN-56,101009DSP-PN-56-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-10-03,No,101003DSP-PN-55,101003DSP-PN-55-90D,101003DSP-PN-55-6M,,,,,,,,,No PDF
+Sheboygan,2010-10-05,No,101005DSP-PN-54,101005DSP-PN-54-90D,No,,,,,,,,,No PDF
+Trempealeau,2010-10-02,No,101002DSP-PN-53,101002DSP-PN-53-90D,No,,,,,,,,,No PDF
+Rock,2010-10-02,No,101002DSP-PN-52,101002DSP-PN-52-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-10-01,No,101001DSP-PN-51,101001DSP-PN-51-90D,No,,,,,,,,,No PDF
+Rock,2010-09-19,No,100919DSP-PN-50,100919DSP-PN-50-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-09-17,No,100917DSP-PN-49,100917DSP-PN-49-90D,No,,,,,,,,,No PDF
+Sawyer,2010-09-13,No,100913DSP-PN-48,100913DSP-PN-48-90D,No,,,,,,,,,No PDF
+Green Lake,2010-09-07,No,100907DSP-PN-47,100907DSP-PN-47-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-09-04,No,100904DSP-PN-46,100904DSP-PN-46-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-08-16,No,100816DSP-PN-45,100816DSP-PN-45-90D,No,,,,,,,,,No PDF
+Polk,2010-08-21,No,100821DSP-PN-44,100821DSP-PN-44-90D,No,,,,,,,,,No PDF
+Douglas,2010-08-17,No,100817DSP-PN-43,100817DSP-PN-43-90D,No,,,,,,,,,No PDF
+Barron,2010-08-26,No,100826DSP-PN-42,100826DSP-PN-42-90D,No,,,,,,,,,No PDF
+Walworth,2010-08-15,No,100815DSP-PN-41,100815DSP-PN-41-90D,No,,,,,,,,,No PDF
+Dane,2010-08-09,No,100809DSP-PN-40,100809DSP-PN-40-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-08-06,No,100806DSP-PN-39,100806DSP-PN-39-90D,No,,,,,,,,,No PDF
+Dane,2010-08-08,No,100808DSP-PN-38,100808DSP-PN-38-90D,No,,,,,,,,,No PDF
+Rock,2010-08-04,No,100804DSP-PN-37,100804DSP-PN-37-90D,No,,,,,,,,,No PDF
+Dane,2010-07-12,No,100712DSP-PN-36,100712DSP-PN-36-90D,No,,,,,,,,,No PDF
+Vilas,2010-07-15,No,100715DSP-PN-35,100715DSP-PN-35-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-07-14,No,100714DSP-PN-34,100714DSP-On-34-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-07-10,No,100710DSP-PN-33,100710DSP-PN-33-90D,No,,,,,,,,,No PDF
+Manitowoc,2010-07-09,No,100709DSP-PN-32,100709DSP-PN-32-90D,No,,,,,,,,,No PDF
+Rock,2010-07-02,No,100702DSP-PN-31,100702DSP-PN-31-90D,No,,,,,,,,,No PDF
+Dane,2010-06-22,No,100622DSP-PN-30,100622DSP-PN-30-90D,No,,,,,,,,,No PDF
+Jefferson,2010-06-23,No,100623DSP-PN-29,100623DSP-PN-29-90D,No,,,,,,,,,No PDF
+Winnebago,2010-06-09,No,100609DSP-PN-28,100609DSP-PN-28-90D,No,,,,,,,,,No PDF
+Dane,2010-06-14,No,100614DSP-PN-27,100614DSP-PN-27-90D,No,,,,,,,,,No PDF
+Kenosha,2010-06-12,No,100612DSP-PN-26,100612DSP-PN-26-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-06-06,No,100606DSP-PN-25,100606DSP-PN-25-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-06-02,No,100602DSP-PN-24,100602DSP-PN-24-90D,No,,,,,,,,,No PDF
+La Crosse,2010-05-20,No,100520DSP-PN-23,100520DSP-PN-23-90D,No,,,,,,,,,No PDF
+Marathon,2010-05-20,No,100520DSP-PN-22,100520DSP-PN-22-90D,No,,,,,,,,,No PDF
+Dunn,2010-05-14,No,100514DSP-PN-21,100514DSP-PN-21-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-05-13,No,100513DSP-PN-20,100513DSP-PN-20-90D,No,,,,,,,,,No PDF
+Outagamie,2010-05-07,No,100507DSP-PN-19,100507DSP-PN-19-90D,No,,,,,,,,,No PDF
+Crawford,2010-05-03,No,100503DSP-PN-18,100503DSP-PN-18-90D,No,,,,,,,,,No PDF
+Pierce,2010-04-29,No,100429DSP-PN-17,100429DSP-PN-17-90D,No,,,,,,,,,No PDF
+Outagamie,2010-04-29,No,100429DSP-PN-16,100429DSP-PN-16-90D,No,,,,,,,,,No PDF
+Outagamie,2010-04-29,No,100429DSP-PN-15,100429DSP-PN-15-90D,No,,,,,,,,,No PDF
+Barron,2010-04-28,No,100428DSP-PN-14,100428DSP-PN-14-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-04-04,No,100404DSP-PN-13,00404DSP-PN-13-90D,No,,,,,,,,,No PDF
+Eau Claire,2010-04-01,No,100401DSP-PN-12,100401DSP-PN-12-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-03-30,No,100330DSP-PN-11,100330DSP-PN-11-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-03-11,No,100311DSP-PN-10,100311DSP-PN-10-90D,No,,,,,,,,,No PDF
+Racine,2010-03-12,No,100312DSP-PN-9,100312DSP-PN-9-90D,No,,,,,,,,,No PDF
+Dane,2010-03-12,No,100312DSP-PN-8,100312DSP-PN-8-90D,100312DSP-PN-8-6M,,,,,,,,,No PDF
+Douglas,2010-03-09,No,100309DSP-PN-7,100309DSP-PN-7-90D,No,,,,,,,,,No PDF
+Sheboygan,2010-03-09,No,100309DSP-PN-6,100309DSP-PN-6-90D,No,,,,,,,,,No PDF
+Jackson,2010-03-06,No,100306DSP-PN-5,100306DSP-PN-5-90D,No,,,,,,,,,No PDF
+Milwaukee,2010-02-26,No,100226DSP-PN-4,100226DSP-PN-4-90D,No,,,,,,,,,No PDF
+Dane,2010-02-11,No,100211DSP-PN-3,100211DSP-PN-3-90D,No,,,,,,,,,No PDF
+Adams,2010-02-11,No,100211DSP-PN-2,100211DSP-PN-2-90D,No,,,,,,,,,No PDF
+Monroe,2010-02-06,No,100206DSP-PN-1,100206DSP-PN-1-90D,No,,,,,,,,,No PDF
